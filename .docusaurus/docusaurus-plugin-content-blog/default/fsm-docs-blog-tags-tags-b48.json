@@ -1,0 +1,22 @@
+[
+  {
+    "label": "facebook",
+    "permalink": "/fsm-docs/blog/tags/facebook",
+    "count": 1
+  },
+  {
+    "label": "hello",
+    "permalink": "/fsm-docs/blog/tags/hello",
+    "count": 2
+  },
+  {
+    "label": "docusaurus",
+    "permalink": "/fsm-docs/blog/tags/docusaurus",
+    "count": 4
+  },
+  {
+    "label": "hola",
+    "permalink": "/fsm-docs/blog/tags/hola",
+    "count": 1
+  }
+]
