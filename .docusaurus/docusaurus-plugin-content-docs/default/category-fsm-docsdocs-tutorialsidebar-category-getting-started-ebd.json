@@ -1,0 +1,15 @@
+{
+  "title": "Getting Started",
+  "slug": "/category/getting-started",
+  "permalink": "/fsm-docs/docs/category/getting-started",
+  "navigation": {
+    "previous": {
+      "title": "intro",
+      "permalink": "/fsm-docs/docs/overview/intro"
+    },
+    "next": {
+      "title": "intro",
+      "permalink": "/fsm-docs/docs/getting-started/intro"
+    }
+  }
+}

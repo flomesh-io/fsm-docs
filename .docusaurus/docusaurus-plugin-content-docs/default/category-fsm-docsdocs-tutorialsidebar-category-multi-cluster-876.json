@@ -1,0 +1,15 @@
+{
+  "title": "Multi Cluster",
+  "slug": "/category/multi-cluster",
+  "permalink": "/fsm-docs/docs/category/multi-cluster",
+  "navigation": {
+    "previous": {
+      "title": "intro",
+      "permalink": "/fsm-docs/docs/ingress/intro"
+    },
+    "next": {
+      "title": "intro",
+      "permalink": "/fsm-docs/docs/multi-cluster/intro"
+    }
+  }
+}

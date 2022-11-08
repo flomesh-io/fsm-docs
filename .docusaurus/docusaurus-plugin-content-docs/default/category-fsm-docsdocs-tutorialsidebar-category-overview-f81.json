@@ -1,0 +1,15 @@
+{
+  "title": "Overview",
+  "slug": "/category/overview",
+  "permalink": "/fsm-docs/docs/category/overview",
+  "navigation": {
+    "previous": {
+      "title": "Architecture",
+      "permalink": "/fsm-docs/docs/architecture"
+    },
+    "next": {
+      "title": "intro",
+      "permalink": "/fsm-docs/docs/overview/intro"
+    }
+  }
+}

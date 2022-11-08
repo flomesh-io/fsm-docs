@@ -1,0 +1,27 @@
+{
+  "unversionedId": "getting_started/intro",
+  "id": "getting_started/intro",
+  "title": "intro",
+  "description": "",
+  "source": "@site/docs/getting_started/intro.md",
+  "sourceDirName": "getting_started",
+  "slug": "/getting_started/intro",
+  "permalink": "/fsm-docs/docs/getting_started/intro",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting_started/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/fsm-docs/docs/category/getting-started"
+  },
+  "next": {
+    "title": "How-To Guides",
+    "permalink": "/fsm-docs/docs/category/how-to-guides"
+  }
+}

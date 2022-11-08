@@ -44,17 +44,89 @@ export default [
   },
   {
     path: '/fsm-docs/docs',
-    component: ComponentCreator('/fsm-docs/docs', 'f56'),
+    component: ComponentCreator('/fsm-docs/docs', '2ae'),
     routes: [
       {
-        path: '/fsm-docs/docs/category/tutorial---basics',
-        component: ComponentCreator('/fsm-docs/docs/category/tutorial---basics', 'b23'),
+        path: '/fsm-docs/docs/api-references/intro',
+        component: ComponentCreator('/fsm-docs/docs/api-references/intro', '6f4'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/fsm-docs/docs/category/tutorial---extras',
-        component: ComponentCreator('/fsm-docs/docs/category/tutorial---extras', 'd58'),
+        path: '/fsm-docs/docs/architecture',
+        component: ComponentCreator('/fsm-docs/docs/architecture', '468'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/fsm-docs/docs/category/api-references',
+        component: ComponentCreator('/fsm-docs/docs/category/api-references', '5ec'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/fsm-docs/docs/category/demos',
+        component: ComponentCreator('/fsm-docs/docs/category/demos', '96b'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/fsm-docs/docs/category/getting-started',
+        component: ComponentCreator('/fsm-docs/docs/category/getting-started', '54f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/fsm-docs/docs/category/how-to-guides',
+        component: ComponentCreator('/fsm-docs/docs/category/how-to-guides', 'e0b'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/fsm-docs/docs/category/ingress-controller',
+        component: ComponentCreator('/fsm-docs/docs/category/ingress-controller', '8a3'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/fsm-docs/docs/category/multi-cluster',
+        component: ComponentCreator('/fsm-docs/docs/category/multi-cluster', '56f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/fsm-docs/docs/category/overview',
+        component: ComponentCreator('/fsm-docs/docs/category/overview', '1b5'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/fsm-docs/docs/category/releases',
+        component: ComponentCreator('/fsm-docs/docs/category/releases', '8e2'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/fsm-docs/docs/demos/intro',
+        component: ComponentCreator('/fsm-docs/docs/demos/intro', '19c'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/fsm-docs/docs/getting-started/intro',
+        component: ComponentCreator('/fsm-docs/docs/getting-started/intro', '2be'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/fsm-docs/docs/how-to/intro',
+        component: ComponentCreator('/fsm-docs/docs/how-to/intro', '235'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/fsm-docs/docs/ingress/intro',
+        component: ComponentCreator('/fsm-docs/docs/ingress/intro', '3f2'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -65,50 +137,26 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/fsm-docs/docs/tutorial-basics/congratulations',
-        component: ComponentCreator('/fsm-docs/docs/tutorial-basics/congratulations', 'c87'),
+        path: '/fsm-docs/docs/multi-cluster/intro',
+        component: ComponentCreator('/fsm-docs/docs/multi-cluster/intro', 'fea'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/fsm-docs/docs/tutorial-basics/create-a-blog-post',
-        component: ComponentCreator('/fsm-docs/docs/tutorial-basics/create-a-blog-post', 'dcc'),
+        path: '/fsm-docs/docs/overview/intro',
+        component: ComponentCreator('/fsm-docs/docs/overview/intro', 'dad'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/fsm-docs/docs/tutorial-basics/create-a-document',
-        component: ComponentCreator('/fsm-docs/docs/tutorial-basics/create-a-document', '77f'),
+        path: '/fsm-docs/docs/quick-start',
+        component: ComponentCreator('/fsm-docs/docs/quick-start', '68b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/fsm-docs/docs/tutorial-basics/create-a-page',
-        component: ComponentCreator('/fsm-docs/docs/tutorial-basics/create-a-page', 'a80'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/fsm-docs/docs/tutorial-basics/deploy-your-site',
-        component: ComponentCreator('/fsm-docs/docs/tutorial-basics/deploy-your-site', '955'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/fsm-docs/docs/tutorial-basics/markdown-features',
-        component: ComponentCreator('/fsm-docs/docs/tutorial-basics/markdown-features', '7f6'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/fsm-docs/docs/tutorial-extras/manage-docs-versions',
-        component: ComponentCreator('/fsm-docs/docs/tutorial-extras/manage-docs-versions', '9e8'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/fsm-docs/docs/tutorial-extras/translate-your-site',
-        component: ComponentCreator('/fsm-docs/docs/tutorial-extras/translate-your-site', '2dc'),
+        path: '/fsm-docs/docs/releases/intro',
+        component: ComponentCreator('/fsm-docs/docs/releases/intro', '5e2'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

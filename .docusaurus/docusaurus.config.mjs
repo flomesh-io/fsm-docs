@@ -53,7 +53,7 @@ export default {
           "type": "doc",
           "docId": "intro",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Docs"
         },
         {
           "href": "https://github.com/flomesh-io/fsm",
@@ -70,7 +70,7 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Tutorial",
+              "label": "Introduction",
               "to": "/docs/intro"
             }
           ]

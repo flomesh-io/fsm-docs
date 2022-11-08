@@ -1,0 +1,27 @@
+{
+  "unversionedId": "ingress/intro",
+  "id": "ingress/intro",
+  "title": "intro",
+  "description": "",
+  "source": "@site/docs/ingress/intro.md",
+  "sourceDirName": "ingress",
+  "slug": "/ingress/intro",
+  "permalink": "/fsm-docs/docs/ingress/intro",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ingress/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ingress Controller",
+    "permalink": "/fsm-docs/docs/category/ingress-controller"
+  },
+  "next": {
+    "title": "Multi Cluster",
+    "permalink": "/fsm-docs/docs/category/multi-cluster"
+  }
+}

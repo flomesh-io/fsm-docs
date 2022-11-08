@@ -49,56 +49,88 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/fsm-docs/docs-f56": {
+  "/fsm-docs/docs-2ae": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docs-4-fc-5ab"
     },
     "versionMetadata": "versionMetadata---docs-935-398"
   },
-  "/fsm-docs/docs/category/tutorial---basics-b23": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---fsm-docs-docs-category-tutorial-basics-485-830"
+  "/fsm-docs/docs/api-references/intro-6f4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fsm-docs-docs-api-references-intro-586-bca"
   },
-  "/fsm-docs/docs/category/tutorial---extras-d58": {
+  "/fsm-docs/docs/architecture-468": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fsm-docs-docs-architecture-528-463"
+  },
+  "/fsm-docs/docs/category/api-references-5ec": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---fsm-docs-docs-category-tutorial-extras-7-d-6-057"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---fsm-docs-docs-category-api-references-84-b-553"
+  },
+  "/fsm-docs/docs/category/demos-96b": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---fsm-docs-docs-category-demos-36-c-1c4"
+  },
+  "/fsm-docs/docs/category/getting-started-54f": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---fsm-docs-docs-category-getting-startedf-5-a-76f"
+  },
+  "/fsm-docs/docs/category/how-to-guides-e0b": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---fsm-docs-docs-category-how-to-guides-549-151"
+  },
+  "/fsm-docs/docs/category/ingress-controller-8a3": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---fsm-docs-docs-category-ingress-controllere-1-d-65f"
+  },
+  "/fsm-docs/docs/category/multi-cluster-56f": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---fsm-docs-docs-category-multi-cluster-2-b-5-fe4"
+  },
+  "/fsm-docs/docs/category/overview-1b5": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---fsm-docs-docs-category-overview-7-a-3-e64"
+  },
+  "/fsm-docs/docs/category/releases-8e2": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---fsm-docs-docs-category-releasese-0-a-1c9"
+  },
+  "/fsm-docs/docs/demos/intro-19c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fsm-docs-docs-demos-intro-644-956"
+  },
+  "/fsm-docs/docs/getting-started/intro-2be": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fsm-docs-docs-getting-started-intro-6-df-e13"
+  },
+  "/fsm-docs/docs/how-to/intro-235": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fsm-docs-docs-how-to-introaf-9-ffa"
+  },
+  "/fsm-docs/docs/ingress/intro-3f2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fsm-docs-docs-ingress-intro-130-262"
   },
   "/fsm-docs/docs/intro-0e7": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-intro-0-e-3-be1"
   },
-  "/fsm-docs/docs/tutorial-basics/congratulations-c87": {
+  "/fsm-docs/docs/multi-cluster/intro-fea": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-congratulations-822-958"
+    "content": "content---fsm-docs-docs-multi-cluster-intro-310-ac7"
   },
-  "/fsm-docs/docs/tutorial-basics/create-a-blog-post-dcc": {
+  "/fsm-docs/docs/overview/intro-dad": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-blog-post-533-e85"
+    "content": "content---fsm-docs-docs-overview-intro-753-9ec"
   },
-  "/fsm-docs/docs/tutorial-basics/create-a-document-77f": {
+  "/fsm-docs/docs/quick-start-68b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-document-1-e-4-078"
+    "content": "content---fsm-docs-docs-quick-start-72-e-a6c"
   },
-  "/fsm-docs/docs/tutorial-basics/create-a-page-a80": {
+  "/fsm-docs/docs/releases/intro-5e2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-page-5-c-8-e19"
-  },
-  "/fsm-docs/docs/tutorial-basics/deploy-your-site-955": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-deploy-your-sitef-55-a3f"
-  },
-  "/fsm-docs/docs/tutorial-basics/markdown-features-7f6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-markdown-features-18-c-a79"
-  },
-  "/fsm-docs/docs/tutorial-extras/manage-docs-versions-9e8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-manage-docs-versionsdff-6d4"
-  },
-  "/fsm-docs/docs/tutorial-extras/translate-your-site-2dc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-translate-your-sitee-44-ddf"
+    "content": "content---fsm-docs-docs-releases-intro-80-c-209"
   },
   "/fsm-docs/-b5a": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

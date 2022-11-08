@@ -1,0 +1,15 @@
+{
+  "title": "How-to Guides",
+  "slug": "/category/how-to-guides",
+  "permalink": "/fsm-docs/docs/category/how-to-guides",
+  "navigation": {
+    "previous": {
+      "title": "intro",
+      "permalink": "/fsm-docs/docs/getting-started/intro"
+    },
+    "next": {
+      "title": "intro",
+      "permalink": "/fsm-docs/docs/how-to/intro"
+    }
+  }
+}

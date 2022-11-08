@@ -1,7 +1,7 @@
 {
   "unversionedId": "intro",
   "id": "intro",
-  "title": "Tutorial Intro",
+  "title": "Intro",
   "description": "Let's discover Docusaurus in less than 5 minutes.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Tutorial - Basics",
-    "permalink": "/fsm-docs/docs/category/tutorial---basics"
+    "title": "Quick Start",
+    "permalink": "/fsm-docs/docs/quick-start"
   }
 }

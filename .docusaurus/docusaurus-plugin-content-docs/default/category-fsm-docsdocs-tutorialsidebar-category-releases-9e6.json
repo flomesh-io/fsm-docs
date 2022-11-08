@@ -1,0 +1,15 @@
+{
+  "title": "Releases",
+  "slug": "/category/releases",
+  "permalink": "/fsm-docs/docs/category/releases",
+  "navigation": {
+    "previous": {
+      "title": "intro",
+      "permalink": "/fsm-docs/docs/how-to/intro"
+    },
+    "next": {
+      "title": "intro",
+      "permalink": "/fsm-docs/docs/releases/intro"
+    }
+  }
+}

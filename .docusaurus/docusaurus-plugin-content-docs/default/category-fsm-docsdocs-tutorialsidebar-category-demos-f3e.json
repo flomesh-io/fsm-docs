@@ -1,0 +1,15 @@
+{
+  "title": "Demos",
+  "slug": "/category/demos",
+  "permalink": "/fsm-docs/docs/category/demos",
+  "navigation": {
+    "previous": {
+      "title": "intro",
+      "permalink": "/fsm-docs/docs/api-references/intro"
+    },
+    "next": {
+      "title": "intro",
+      "permalink": "/fsm-docs/docs/demos/intro"
+    }
+  }
+}

@@ -20,9 +20,171 @@
           "contentPathLocalized": "/Users/linyang/workspace/flomesh-projects/fsm-docs/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
+              "unversionedId": "api-references/intro",
+              "id": "api-references/intro",
+              "title": "intro",
+              "description": "",
+              "source": "@site/docs/api-references/intro.md",
+              "sourceDirName": "api-references",
+              "slug": "/api-references/intro",
+              "permalink": "/fsm-docs/docs/api-references/intro",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/api-references/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "API References",
+                "permalink": "/fsm-docs/docs/category/api-references"
+              },
+              "next": {
+                "title": "Demos",
+                "permalink": "/fsm-docs/docs/category/demos"
+              }
+            },
+            {
+              "unversionedId": "architecture",
+              "id": "architecture",
+              "title": "Architecture",
+              "description": "Architecture",
+              "source": "@site/docs/architecture.md",
+              "sourceDirName": ".",
+              "slug": "/architecture",
+              "permalink": "/fsm-docs/docs/architecture",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/architecture.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Quick Start",
+                "permalink": "/fsm-docs/docs/quick-start"
+              },
+              "next": {
+                "title": "Overview",
+                "permalink": "/fsm-docs/docs/category/overview"
+              }
+            },
+            {
+              "unversionedId": "demos/intro",
+              "id": "demos/intro",
+              "title": "intro",
+              "description": "",
+              "source": "@site/docs/demos/intro.md",
+              "sourceDirName": "demos",
+              "slug": "/demos/intro",
+              "permalink": "/fsm-docs/docs/demos/intro",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/demos/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Demos",
+                "permalink": "/fsm-docs/docs/category/demos"
+              },
+              "next": {
+                "title": "Ingress Controller",
+                "permalink": "/fsm-docs/docs/category/ingress-controller"
+              }
+            },
+            {
+              "unversionedId": "getting-started/intro",
+              "id": "getting-started/intro",
+              "title": "intro",
+              "description": "",
+              "source": "@site/docs/getting-started/intro.md",
+              "sourceDirName": "getting-started",
+              "slug": "/getting-started/intro",
+              "permalink": "/fsm-docs/docs/getting-started/intro",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Getting Started",
+                "permalink": "/fsm-docs/docs/category/getting-started"
+              },
+              "next": {
+                "title": "How-to Guides",
+                "permalink": "/fsm-docs/docs/category/how-to-guides"
+              }
+            },
+            {
+              "unversionedId": "how-to/intro",
+              "id": "how-to/intro",
+              "title": "intro",
+              "description": "",
+              "source": "@site/docs/how-to/intro.md",
+              "sourceDirName": "how-to",
+              "slug": "/how-to/intro",
+              "permalink": "/fsm-docs/docs/how-to/intro",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/how-to/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "How-to Guides",
+                "permalink": "/fsm-docs/docs/category/how-to-guides"
+              },
+              "next": {
+                "title": "Releases",
+                "permalink": "/fsm-docs/docs/category/releases"
+              }
+            },
+            {
+              "unversionedId": "ingress/intro",
+              "id": "ingress/intro",
+              "title": "intro",
+              "description": "",
+              "source": "@site/docs/ingress/intro.md",
+              "sourceDirName": "ingress",
+              "slug": "/ingress/intro",
+              "permalink": "/fsm-docs/docs/ingress/intro",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ingress/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Ingress Controller",
+                "permalink": "/fsm-docs/docs/category/ingress-controller"
+              },
+              "next": {
+                "title": "Multi Cluster",
+                "permalink": "/fsm-docs/docs/category/multi-cluster"
+              }
+            },
+            {
               "unversionedId": "intro",
               "id": "intro",
-              "title": "Tutorial Intro",
+              "title": "Intro",
               "description": "Let's discover Docusaurus in less than 5 minutes.",
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
@@ -38,102 +200,21 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Tutorial - Basics",
-                "permalink": "/fsm-docs/docs/category/tutorial---basics"
+                "title": "Quick Start",
+                "permalink": "/fsm-docs/docs/quick-start"
               }
             },
             {
-              "unversionedId": "tutorial-basics/congratulations",
-              "id": "tutorial-basics/congratulations",
-              "title": "Congratulations!",
-              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
-              "source": "@site/docs/tutorial-basics/congratulations.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/congratulations",
-              "permalink": "/fsm-docs/docs/tutorial-basics/congratulations",
+              "unversionedId": "multi-cluster/intro",
+              "id": "multi-cluster/intro",
+              "title": "intro",
+              "description": "",
+              "source": "@site/docs/multi-cluster/intro.md",
+              "sourceDirName": "multi-cluster",
+              "slug": "/multi-cluster/intro",
+              "permalink": "/fsm-docs/docs/multi-cluster/intro",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/congratulations.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 6,
-              "frontMatter": {
-                "sidebar_position": 6
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Deploy your site",
-                "permalink": "/fsm-docs/docs/tutorial-basics/deploy-your-site"
-              },
-              "next": {
-                "title": "Tutorial - Extras",
-                "permalink": "/fsm-docs/docs/category/tutorial---extras"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/create-a-blog-post",
-              "id": "tutorial-basics/create-a-blog-post",
-              "title": "Create a Blog Post",
-              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
-              "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-blog-post",
-              "permalink": "/fsm-docs/docs/tutorial-basics/create-a-blog-post",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-blog-post.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Document",
-                "permalink": "/fsm-docs/docs/tutorial-basics/create-a-document"
-              },
-              "next": {
-                "title": "Markdown Features",
-                "permalink": "/fsm-docs/docs/tutorial-basics/markdown-features"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/create-a-document",
-              "id": "tutorial-basics/create-a-document",
-              "title": "Create a Document",
-              "description": "Documents are groups of pages connected through:",
-              "source": "@site/docs/tutorial-basics/create-a-document.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-document",
-              "permalink": "/fsm-docs/docs/tutorial-basics/create-a-document",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-document.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Page",
-                "permalink": "/fsm-docs/docs/tutorial-basics/create-a-page"
-              },
-              "next": {
-                "title": "Create a Blog Post",
-                "permalink": "/fsm-docs/docs/tutorial-basics/create-a-blog-post"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/create-a-page",
-              "id": "tutorial-basics/create-a-page",
-              "title": "Create a Page",
-              "description": "Add Markdown or React files to src/pages to create a standalone page:",
-              "source": "@site/docs/tutorial-basics/create-a-page.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-page",
-              "permalink": "/fsm-docs/docs/tutorial-basics/create-a-page",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-page.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/multi-cluster/intro.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -142,79 +223,21 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Tutorial - Basics",
-                "permalink": "/fsm-docs/docs/category/tutorial---basics"
-              },
-              "next": {
-                "title": "Create a Document",
-                "permalink": "/fsm-docs/docs/tutorial-basics/create-a-document"
+                "title": "Multi Cluster",
+                "permalink": "/fsm-docs/docs/category/multi-cluster"
               }
             },
             {
-              "unversionedId": "tutorial-basics/deploy-your-site",
-              "id": "tutorial-basics/deploy-your-site",
-              "title": "Deploy your site",
-              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
-              "source": "@site/docs/tutorial-basics/deploy-your-site.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/deploy-your-site",
-              "permalink": "/fsm-docs/docs/tutorial-basics/deploy-your-site",
+              "unversionedId": "overview/intro",
+              "id": "overview/intro",
+              "title": "intro",
+              "description": "",
+              "source": "@site/docs/overview/intro.md",
+              "sourceDirName": "overview",
+              "slug": "/overview/intro",
+              "permalink": "/fsm-docs/docs/overview/intro",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/deploy-your-site.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_position": 5
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Markdown Features",
-                "permalink": "/fsm-docs/docs/tutorial-basics/markdown-features"
-              },
-              "next": {
-                "title": "Congratulations!",
-                "permalink": "/fsm-docs/docs/tutorial-basics/congratulations"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/markdown-features",
-              "id": "tutorial-basics/markdown-features",
-              "title": "Markdown Features",
-              "description": "Docusaurus supports Markdown and a few additional features.",
-              "source": "@site/docs/tutorial-basics/markdown-features.mdx",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/markdown-features",
-              "permalink": "/fsm-docs/docs/tutorial-basics/markdown-features",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/markdown-features.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Blog Post",
-                "permalink": "/fsm-docs/docs/tutorial-basics/create-a-blog-post"
-              },
-              "next": {
-                "title": "Deploy your site",
-                "permalink": "/fsm-docs/docs/tutorial-basics/deploy-your-site"
-              }
-            },
-            {
-              "unversionedId": "tutorial-extras/manage-docs-versions",
-              "id": "tutorial-extras/manage-docs-versions",
-              "title": "Manage Docs Versions",
-              "description": "Docusaurus can manage multiple versions of your docs.",
-              "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/manage-docs-versions",
-              "permalink": "/fsm-docs/docs/tutorial-extras/manage-docs-versions",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/manage-docs-versions.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/overview/intro.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -223,25 +246,25 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Tutorial - Extras",
-                "permalink": "/fsm-docs/docs/category/tutorial---extras"
+                "title": "Overview",
+                "permalink": "/fsm-docs/docs/category/overview"
               },
               "next": {
-                "title": "Translate your site",
-                "permalink": "/fsm-docs/docs/tutorial-extras/translate-your-site"
+                "title": "Getting Started",
+                "permalink": "/fsm-docs/docs/category/getting-started"
               }
             },
             {
-              "unversionedId": "tutorial-extras/translate-your-site",
-              "id": "tutorial-extras/translate-your-site",
-              "title": "Translate your site",
-              "description": "Let's translate docs/intro.md to French.",
-              "source": "@site/docs/tutorial-extras/translate-your-site.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/translate-your-site",
-              "permalink": "/fsm-docs/docs/tutorial-extras/translate-your-site",
+              "unversionedId": "quick-start",
+              "id": "quick-start",
+              "title": "Quick Start",
+              "description": "",
+              "source": "@site/docs/quick-start.md",
+              "sourceDirName": ".",
+              "slug": "/quick-start",
+              "permalink": "/fsm-docs/docs/quick-start",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/translate-your-site.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/quick-start.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -250,8 +273,39 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Manage Docs Versions",
-                "permalink": "/fsm-docs/docs/tutorial-extras/manage-docs-versions"
+                "title": "Intro",
+                "permalink": "/fsm-docs/docs/intro"
+              },
+              "next": {
+                "title": "Architecture",
+                "permalink": "/fsm-docs/docs/architecture"
+              }
+            },
+            {
+              "unversionedId": "releases/intro",
+              "id": "releases/intro",
+              "title": "intro",
+              "description": "",
+              "source": "@site/docs/releases/intro.md",
+              "sourceDirName": "releases",
+              "slug": "/releases/intro",
+              "permalink": "/fsm-docs/docs/releases/intro",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/releases/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Releases",
+                "permalink": "/fsm-docs/docs/category/releases"
+              },
+              "next": {
+                "title": "API References",
+                "permalink": "/fsm-docs/docs/category/api-references"
               }
             }
           ],
@@ -263,62 +317,147 @@
                 "id": "intro"
               },
               {
+                "type": "doc",
+                "id": "quick-start"
+              },
+              {
+                "type": "doc",
+                "id": "architecture"
+              },
+              {
                 "type": "category",
-                "label": "Tutorial - Basics",
+                "label": "Overview",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/create-a-page"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/create-a-document"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/create-a-blog-post"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/markdown-features"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/deploy-your-site"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/congratulations"
+                    "id": "overview/intro"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
-                  "description": "5 minutes to learn the most important Docusaurus concepts.",
-                  "slug": "/category/tutorial---basics",
-                  "permalink": "/fsm-docs/docs/category/tutorial---basics"
+                  "slug": "/category/overview",
+                  "permalink": "/fsm-docs/docs/category/overview"
                 }
               },
               {
                 "type": "category",
-                "label": "Tutorial - Extras",
+                "label": "Getting Started",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "tutorial-extras/manage-docs-versions"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-extras/translate-your-site"
+                    "id": "getting-started/intro"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
-                  "slug": "/category/tutorial---extras",
-                  "permalink": "/fsm-docs/docs/category/tutorial---extras"
+                  "slug": "/category/getting-started",
+                  "permalink": "/fsm-docs/docs/category/getting-started"
+                }
+              },
+              {
+                "type": "category",
+                "label": "How-to Guides",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "how-to/intro"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/how-to-guides",
+                  "permalink": "/fsm-docs/docs/category/how-to-guides"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Releases",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "releases/intro"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/releases",
+                  "permalink": "/fsm-docs/docs/category/releases"
+                }
+              },
+              {
+                "type": "category",
+                "label": "API References",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "api-references/intro"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/api-references",
+                  "permalink": "/fsm-docs/docs/category/api-references"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Demos",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "demos/intro"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/demos",
+                  "permalink": "/fsm-docs/docs/category/demos"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Ingress Controller",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "ingress/intro"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/ingress-controller",
+                  "permalink": "/fsm-docs/docs/category/ingress-controller"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Multi Cluster",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "multi-cluster/intro"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/multi-cluster",
+                  "permalink": "/fsm-docs/docs/category/multi-cluster"
                 }
               }
             ]

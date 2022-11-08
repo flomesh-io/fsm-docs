@@ -1,0 +1,15 @@
+{
+  "title": "Ingress Controller",
+  "slug": "/category/ingress-controller-1",
+  "permalink": "/fsm-docs/docs/category/ingress-controller-1",
+  "navigation": {
+    "previous": {
+      "title": "intro",
+      "permalink": "/fsm-docs/docs/multi-cluster/intro"
+    },
+    "next": {
+      "title": "intro",
+      "permalink": "/fsm-docs/docs/overview/intro"
+    }
+  }
+}

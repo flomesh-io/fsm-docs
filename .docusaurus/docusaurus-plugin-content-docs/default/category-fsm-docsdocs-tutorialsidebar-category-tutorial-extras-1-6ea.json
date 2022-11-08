@@ -1,11 +1,11 @@
 {
   "title": "Tutorial - Extras",
-  "slug": "/category/tutorial---extras",
-  "permalink": "/fsm-docs/docs/category/tutorial---extras",
+  "slug": "/category/tutorial---extras-1",
+  "permalink": "/fsm-docs/docs/category/tutorial---extras-1",
   "navigation": {
     "previous": {
-      "title": "Architecture",
-      "permalink": "/fsm-docs/docs/architecture"
+      "title": "intro",
+      "permalink": "/fsm-docs/docs/multi-cluster/intro"
     },
     "next": {
       "title": "Manage Docs Versions",

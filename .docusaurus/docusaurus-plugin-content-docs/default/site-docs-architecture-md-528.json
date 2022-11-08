@@ -1,0 +1,27 @@
+{
+  "unversionedId": "architecture",
+  "id": "architecture",
+  "title": "Architecture",
+  "description": "Architecture",
+  "source": "@site/docs/architecture.md",
+  "sourceDirName": ".",
+  "slug": "/architecture",
+  "permalink": "/fsm-docs/docs/architecture",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/architecture.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quick Start",
+    "permalink": "/fsm-docs/docs/quick-start"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/fsm-docs/docs/category/overview"
+  }
+}

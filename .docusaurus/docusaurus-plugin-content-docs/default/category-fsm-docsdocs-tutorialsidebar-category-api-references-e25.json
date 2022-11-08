@@ -1,0 +1,15 @@
+{
+  "title": "API References",
+  "slug": "/category/api-references",
+  "permalink": "/fsm-docs/docs/category/api-references",
+  "navigation": {
+    "previous": {
+      "title": "intro",
+      "permalink": "/fsm-docs/docs/releases/intro"
+    },
+    "next": {
+      "title": "intro",
+      "permalink": "/fsm-docs/docs/api-references/intro"
+    }
+  }
+}
