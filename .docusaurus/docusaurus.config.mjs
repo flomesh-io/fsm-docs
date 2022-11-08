@@ -13,6 +13,7 @@ export default {
   "favicon": "img/favicon.ico",
   "organizationName": "flomesh-io",
   "projectName": "fsm-docs",
+  "deploymentBranch": "gh-pages",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -45,7 +46,7 @@ export default {
       "title": "FSM",
       "logo": {
         "alt": "My Site Logo",
-        "src": "static/img/logo.svg"
+        "src": "img/logo.svg"
       },
       "items": [
         {

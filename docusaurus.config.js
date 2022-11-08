@@ -18,6 +18,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'flomesh-io', // Usually your GitHub org/user name.
   projectName: 'fsm-docs', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -60,7 +61,7 @@ const config = {
         title: 'FSM',
         logo: {
           alt: 'My Site Logo',
-          src: 'static/img/logo.svg',
+          src: 'img/logo.svg',
         },
         items: [
           {
