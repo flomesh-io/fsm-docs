@@ -1,0 +1,27 @@
+{
+  "unversionedId": "api-references/serviceexport copy",
+  "id": "api-references/serviceexport copy",
+  "title": "ServiceExport",
+  "description": "",
+  "source": "@site/docs/api-references/serviceexport copy.md",
+  "sourceDirName": "api-references",
+  "slug": "/api-references/serviceexport copy",
+  "permalink": "/fsm-docs/docs/api-references/serviceexport copy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/api-references/serviceexport copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NamespacedIngress",
+    "permalink": "/fsm-docs/docs/api-references/namespacedingress"
+  },
+  "next": {
+    "title": "ServiceExport",
+    "permalink": "/fsm-docs/docs/api-references/serviceexport"
+  }
+}

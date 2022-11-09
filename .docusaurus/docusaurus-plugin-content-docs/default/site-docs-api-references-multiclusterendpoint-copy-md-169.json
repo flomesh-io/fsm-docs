@@ -1,0 +1,27 @@
+{
+  "unversionedId": "api-references/multiclusterendpoint copy",
+  "id": "api-references/multiclusterendpoint copy",
+  "title": "MultiClusterEndpoint",
+  "description": "",
+  "source": "@site/docs/api-references/multiclusterendpoint copy.md",
+  "sourceDirName": "api-references",
+  "slug": "/api-references/multiclusterendpoint copy",
+  "permalink": "/fsm-docs/docs/api-references/multiclusterendpoint copy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/api-references/multiclusterendpoint copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ServiceImport",
+    "permalink": "/fsm-docs/docs/api-references/serviceimport"
+  },
+  "next": {
+    "title": "MultiClusterEndpoint",
+    "permalink": "/fsm-docs/docs/api-references/multiclusterendpoint"
+  }
+}

@@ -4,12 +4,12 @@
   "permalink": "/fsm-docs/docs/category/getting-started-2",
   "navigation": {
     "previous": {
-      "title": "intro",
-      "permalink": "/fsm-docs/docs/overview/intro"
+      "title": "Uninstall",
+      "permalink": "/fsm-docs/docs/getting-started/uninstall"
     },
     "next": {
-      "title": "intro",
-      "permalink": "/fsm-docs/docs/getting-started/intro"
+      "title": "Ingress Controller and Gateway API",
+      "permalink": "/fsm-docs/docs/tutorial/ingress-controller-and-gateway-api"
     }
   }
 }

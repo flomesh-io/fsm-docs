@@ -1,0 +1,27 @@
+{
+  "unversionedId": "api-references/proxy copy",
+  "id": "api-references/proxy copy",
+  "title": "Proxy",
+  "description": "",
+  "source": "@site/docs/api-references/proxy copy.md",
+  "sourceDirName": "api-references",
+  "slug": "/api-references/proxy copy",
+  "permalink": "/fsm-docs/docs/api-references/proxy copy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/api-references/proxy copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "API References",
+    "permalink": "/fsm-docs/docs/category/api-references"
+  },
+  "next": {
+    "title": "Proxy",
+    "permalink": "/fsm-docs/docs/api-references/proxy"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "getting-started/install/prerequisites",
+  "id": "getting-started/install/prerequisites",
+  "title": "Prerequisites",
+  "description": "",
+  "source": "@site/docs/getting-started/install/prerequisites.md",
+  "sourceDirName": "getting-started/install",
+  "slug": "/getting-started/install/prerequisites",
+  "permalink": "/fsm-docs/docs/getting-started/install/prerequisites",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/install/prerequisites.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Install",
+    "permalink": "/fsm-docs/docs/category/install"
+  },
+  "next": {
+    "title": "Install With Helm",
+    "permalink": "/fsm-docs/docs/getting-started/install/install-with-helm"
+  }
+}

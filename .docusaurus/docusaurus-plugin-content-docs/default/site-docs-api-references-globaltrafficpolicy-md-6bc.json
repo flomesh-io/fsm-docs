@@ -1,0 +1,27 @@
+{
+  "unversionedId": "api-references/globaltrafficpolicy",
+  "id": "api-references/globaltrafficpolicy",
+  "title": "GlobalTrafficPolicy",
+  "description": "",
+  "source": "@site/docs/api-references/globaltrafficpolicy.md",
+  "sourceDirName": "api-references",
+  "slug": "/api-references/globaltrafficpolicy",
+  "permalink": "/fsm-docs/docs/api-references/globaltrafficpolicy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/api-references/globaltrafficpolicy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MultiClusterEndpoint",
+    "permalink": "/fsm-docs/docs/api-references/multiclusterendpoint"
+  },
+  "next": {
+    "title": "Demos",
+    "permalink": "/fsm-docs/docs/category/demos"
+  }
+}

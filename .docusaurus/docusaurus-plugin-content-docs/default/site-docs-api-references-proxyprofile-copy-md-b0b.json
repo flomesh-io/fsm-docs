@@ -1,0 +1,27 @@
+{
+  "unversionedId": "api-references/proxyprofile copy",
+  "id": "api-references/proxyprofile copy",
+  "title": "ProxyProfile",
+  "description": "",
+  "source": "@site/docs/api-references/proxyprofile copy.md",
+  "sourceDirName": "api-references",
+  "slug": "/api-references/proxyprofile copy",
+  "permalink": "/fsm-docs/docs/api-references/proxyprofile copy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/api-references/proxyprofile copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Proxy",
+    "permalink": "/fsm-docs/docs/api-references/proxy"
+  },
+  "next": {
+    "title": "ProxyProfile",
+    "permalink": "/fsm-docs/docs/api-references/proxyprofile"
+  }
+}

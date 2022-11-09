@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial/certificate-management",
+  "id": "tutorial/certificate-management",
+  "title": "Certificate Management",
+  "description": "",
+  "source": "@site/docs/tutorial/certificate-management.md",
+  "sourceDirName": "tutorial",
+  "slug": "/tutorial/certificate-management",
+  "permalink": "/fsm-docs/docs/tutorial/certificate-management",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial/certificate-management.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Egress Gateway",
+    "permalink": "/fsm-docs/docs/tutorial/egress-gateway"
+  },
+  "next": {
+    "title": "API References",
+    "permalink": "/fsm-docs/docs/category/api-references"
+  }
+}

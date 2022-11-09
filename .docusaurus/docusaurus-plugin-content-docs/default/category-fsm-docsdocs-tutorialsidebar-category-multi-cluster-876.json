@@ -5,11 +5,11 @@
   "navigation": {
     "previous": {
       "title": "intro",
-      "permalink": "/fsm-docs/docs/ingress/intro"
+      "permalink": "/fsm-docs/docs/demos/single-cluster/intro"
     },
     "next": {
       "title": "intro",
-      "permalink": "/fsm-docs/docs/multi-cluster/intro"
+      "permalink": "/fsm-docs/docs/demos/multi-cluster/intro"
     }
   }
 }

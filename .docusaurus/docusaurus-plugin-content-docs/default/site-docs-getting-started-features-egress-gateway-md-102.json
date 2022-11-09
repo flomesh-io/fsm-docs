@@ -1,0 +1,27 @@
+{
+  "unversionedId": "getting-started/features/egress-gateway",
+  "id": "getting-started/features/egress-gateway",
+  "title": "Egress Gateway",
+  "description": "",
+  "source": "@site/docs/getting-started/features/egress-gateway.md",
+  "sourceDirName": "getting-started/features",
+  "slug": "/getting-started/features/egress-gateway",
+  "permalink": "/fsm-docs/docs/getting-started/features/egress-gateway",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/features/egress-gateway.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Integrate with FLB",
+    "permalink": "/fsm-docs/docs/getting-started/features/integrate-with-flb"
+  },
+  "next": {
+    "title": "Logging and Metrics",
+    "permalink": "/fsm-docs/docs/getting-started/features/logging-and-metrics"
+  }
+}

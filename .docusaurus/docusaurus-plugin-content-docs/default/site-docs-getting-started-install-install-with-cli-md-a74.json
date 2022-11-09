@@ -1,0 +1,27 @@
+{
+  "unversionedId": "getting-started/install/install-with-cli",
+  "id": "getting-started/install/install-with-cli",
+  "title": "Install with CLI",
+  "description": "",
+  "source": "@site/docs/getting-started/install/install-with-cli.md",
+  "sourceDirName": "getting-started/install",
+  "slug": "/getting-started/install/install-with-cli",
+  "permalink": "/fsm-docs/docs/getting-started/install/install-with-cli",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/install/install-with-cli.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Install With Helm",
+    "permalink": "/fsm-docs/docs/getting-started/install/install-with-helm"
+  },
+  "next": {
+    "title": "Install with static YAML",
+    "permalink": "/fsm-docs/docs/getting-started/install/install-with-static-yaml"
+  }
+}

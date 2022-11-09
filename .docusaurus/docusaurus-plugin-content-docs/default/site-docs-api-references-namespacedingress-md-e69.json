@@ -1,0 +1,27 @@
+{
+  "unversionedId": "api-references/namespacedingress",
+  "id": "api-references/namespacedingress",
+  "title": "NamespacedIngress",
+  "description": "",
+  "source": "@site/docs/api-references/namespacedingress.md",
+  "sourceDirName": "api-references",
+  "slug": "/api-references/namespacedingress",
+  "permalink": "/fsm-docs/docs/api-references/namespacedingress",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/api-references/namespacedingress.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cluster",
+    "permalink": "/fsm-docs/docs/api-references/cluster"
+  },
+  "next": {
+    "title": "ServiceExport",
+    "permalink": "/fsm-docs/docs/api-references/serviceexport"
+  }
+}

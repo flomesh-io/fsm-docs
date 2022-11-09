@@ -1,0 +1,15 @@
+{
+  "title": "Single Cluster",
+  "slug": "/category/single-cluster",
+  "permalink": "/fsm-docs/docs/category/single-cluster",
+  "navigation": {
+    "previous": {
+      "title": "Demos",
+      "permalink": "/fsm-docs/docs/category/demos"
+    },
+    "next": {
+      "title": "intro",
+      "permalink": "/fsm-docs/docs/demos/single-cluster/intro"
+    }
+  }
+}

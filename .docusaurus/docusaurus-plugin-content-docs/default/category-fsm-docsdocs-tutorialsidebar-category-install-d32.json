@@ -1,0 +1,15 @@
+{
+  "title": "Install",
+  "slug": "/category/install",
+  "permalink": "/fsm-docs/docs/category/install",
+  "navigation": {
+    "previous": {
+      "title": "Getting Started",
+      "permalink": "/fsm-docs/docs/category/getting-started"
+    },
+    "next": {
+      "title": "Prerequisites",
+      "permalink": "/fsm-docs/docs/getting-started/install/prerequisites"
+    }
+  }
+}

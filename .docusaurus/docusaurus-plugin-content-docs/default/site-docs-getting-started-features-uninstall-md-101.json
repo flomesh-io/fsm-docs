@@ -1,0 +1,27 @@
+{
+  "unversionedId": "getting-started/features/uninstall",
+  "id": "getting-started/features/uninstall",
+  "title": "Uninstall",
+  "description": "",
+  "source": "@site/docs/getting-started/features/uninstall.md",
+  "sourceDirName": "getting-started/features",
+  "slug": "/getting-started/features/uninstall",
+  "permalink": "/fsm-docs/docs/getting-started/features/uninstall",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/features/uninstall.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Service Load Balancer",
+    "permalink": "/fsm-docs/docs/getting-started/features/service-lb"
+  },
+  "next": {
+    "title": "Integrate with FLB",
+    "permalink": "/fsm-docs/docs/getting-started/features/integrate-with-flb"
+  }
+}

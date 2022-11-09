@@ -4,12 +4,12 @@
   "permalink": "/fsm-docs/docs/category/demos",
   "navigation": {
     "previous": {
-      "title": "intro",
-      "permalink": "/fsm-docs/docs/api-references/intro"
+      "title": "GlobalTrafficPolicy",
+      "permalink": "/fsm-docs/docs/api-references/globaltrafficpolicy"
     },
     "next": {
-      "title": "intro",
-      "permalink": "/fsm-docs/docs/demos/intro"
+      "title": "Single Cluster",
+      "permalink": "/fsm-docs/docs/category/single-cluster"
     }
   }
 }

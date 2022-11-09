@@ -1,0 +1,27 @@
+{
+  "unversionedId": "api-references/serviceimport",
+  "id": "api-references/serviceimport",
+  "title": "ServiceImport",
+  "description": "",
+  "source": "@site/docs/api-references/serviceimport.md",
+  "sourceDirName": "api-references",
+  "slug": "/api-references/serviceimport",
+  "permalink": "/fsm-docs/docs/api-references/serviceimport",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/api-references/serviceimport.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ServiceExport",
+    "permalink": "/fsm-docs/docs/api-references/serviceexport"
+  },
+  "next": {
+    "title": "MultiClusterEndpoint",
+    "permalink": "/fsm-docs/docs/api-references/multiclusterendpoint"
+  }
+}

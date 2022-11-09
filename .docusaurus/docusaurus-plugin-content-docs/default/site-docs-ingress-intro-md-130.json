@@ -19,9 +19,5 @@
   "previous": {
     "title": "Ingress Controller",
     "permalink": "/fsm-docs/docs/category/ingress-controller"
-  },
-  "next": {
-    "title": "Multi Cluster",
-    "permalink": "/fsm-docs/docs/category/multi-cluster"
   }
 }

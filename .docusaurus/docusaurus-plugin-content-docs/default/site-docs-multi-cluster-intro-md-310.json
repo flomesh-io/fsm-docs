@@ -19,5 +19,9 @@
   "previous": {
     "title": "Multi Cluster",
     "permalink": "/fsm-docs/docs/category/multi-cluster"
+  },
+  "next": {
+    "title": "Ingress Controller and Gateway API",
+    "permalink": "/fsm-docs/docs/tutorial/ingress-controller-and-gateway-api"
   }
 }

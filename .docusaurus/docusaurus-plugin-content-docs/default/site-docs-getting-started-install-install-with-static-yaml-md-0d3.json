@@ -1,0 +1,27 @@
+{
+  "unversionedId": "getting-started/install/install-with-static-yaml",
+  "id": "getting-started/install/install-with-static-yaml",
+  "title": "Install with static YAML",
+  "description": "",
+  "source": "@site/docs/getting-started/install/install-with-static-yaml.md",
+  "sourceDirName": "getting-started/install",
+  "slug": "/getting-started/install/install-with-static-yaml",
+  "permalink": "/fsm-docs/docs/getting-started/install/install-with-static-yaml",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/install/install-with-static-yaml.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Install with CLI",
+    "permalink": "/fsm-docs/docs/getting-started/install/install-with-cli"
+  },
+  "next": {
+    "title": "Enable Features",
+    "permalink": "/fsm-docs/docs/category/enable-features"
+  }
+}

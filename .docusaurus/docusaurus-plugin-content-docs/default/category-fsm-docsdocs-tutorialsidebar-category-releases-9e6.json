@@ -5,11 +5,11 @@
   "navigation": {
     "previous": {
       "title": "intro",
-      "permalink": "/fsm-docs/docs/how-to/intro"
+      "permalink": "/fsm-docs/docs/demos/multi-cluster/intro"
     },
     "next": {
-      "title": "intro",
-      "permalink": "/fsm-docs/docs/releases/intro"
+      "title": "History",
+      "permalink": "/fsm-docs/docs/releases/histrory"
     }
   }
 }

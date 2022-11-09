@@ -1,0 +1,27 @@
+{
+  "unversionedId": "overview/concepts",
+  "id": "overview/concepts",
+  "title": "Concepts",
+  "description": "",
+  "source": "@site/docs/overview/concepts.md",
+  "sourceDirName": "overview",
+  "slug": "/overview/concepts",
+  "permalink": "/fsm-docs/docs/overview/concepts",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/overview/concepts.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Architecture",
+    "permalink": "/fsm-docs/docs/overview/architecture"
+  },
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/fsm-docs/docs/category/getting-started"
+  }
+}

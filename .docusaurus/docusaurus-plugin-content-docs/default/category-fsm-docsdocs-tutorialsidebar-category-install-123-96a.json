@@ -1,0 +1,15 @@
+{
+  "title": "Install 123",
+  "slug": "/category/install-123",
+  "permalink": "/fsm-docs/docs/category/install-123",
+  "navigation": {
+    "previous": {
+      "title": "Getting Started",
+      "permalink": "/fsm-docs/docs/category/getting-started"
+    },
+    "next": {
+      "title": "Prerequisites",
+      "permalink": "/fsm-docs/docs/getting-started/install/prerequisites"
+    }
+  }
+}

@@ -11,28 +11,118 @@
           "mainDocId": "index",
           "docs": [
             {
-              "id": "api-references/intro",
-              "path": "/fsm-docs/docs/api-references/intro",
+              "id": "api-references/cluster",
+              "path": "/fsm-docs/docs/api-references/cluster",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "architecture",
-              "path": "/fsm-docs/docs/architecture",
+              "id": "api-references/globaltrafficpolicy",
+              "path": "/fsm-docs/docs/api-references/globaltrafficpolicy",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "demos/intro",
-              "path": "/fsm-docs/docs/demos/intro",
+              "id": "api-references/multiclusterendpoint",
+              "path": "/fsm-docs/docs/api-references/multiclusterendpoint",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "getting-started/intro",
-              "path": "/fsm-docs/docs/getting-started/intro",
+              "id": "api-references/namespacedingress",
+              "path": "/fsm-docs/docs/api-references/namespacedingress",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "how-to/intro",
-              "path": "/fsm-docs/docs/how-to/intro",
+              "id": "api-references/proxy",
+              "path": "/fsm-docs/docs/api-references/proxy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "api-references/proxyprofile",
+              "path": "/fsm-docs/docs/api-references/proxyprofile",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "api-references/serviceexport",
+              "path": "/fsm-docs/docs/api-references/serviceexport",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "api-references/serviceimport",
+              "path": "/fsm-docs/docs/api-references/serviceimport",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "demos/multi-cluster/intro",
+              "path": "/fsm-docs/docs/demos/multi-cluster/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "demos/single-cluster/intro",
+              "path": "/fsm-docs/docs/demos/single-cluster/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/features/egress-gateway",
+              "path": "/fsm-docs/docs/getting-started/features/egress-gateway",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/features/ingress-controller-and-gateway-api",
+              "path": "/fsm-docs/docs/getting-started/features/ingress-controller-and-gateway-api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/features/integrate-with-flb",
+              "path": "/fsm-docs/docs/getting-started/features/integrate-with-flb",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/features/logging-and-metrics",
+              "path": "/fsm-docs/docs/getting-started/features/logging-and-metrics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/features/multicluster",
+              "path": "/fsm-docs/docs/getting-started/features/multicluster",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/features/namespacedingress",
+              "path": "/fsm-docs/docs/getting-started/features/namespacedingress",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/features/service-lb",
+              "path": "/fsm-docs/docs/getting-started/features/service-lb",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/install/install-with-cli",
+              "path": "/fsm-docs/docs/getting-started/install/install-with-cli",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/install/install-with-helm",
+              "path": "/fsm-docs/docs/getting-started/install/install-with-helm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/install/install-with-static-yaml",
+              "path": "/fsm-docs/docs/getting-started/install/install-with-static-yaml",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/install/prerequisites",
+              "path": "/fsm-docs/docs/getting-started/install/prerequisites",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/setup-flomesh-gui",
+              "path": "/fsm-docs/docs/getting-started/setup-flomesh-gui",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/uninstall",
+              "path": "/fsm-docs/docs/getting-started/uninstall",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -41,13 +131,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "ingress/intro",
-              "path": "/fsm-docs/docs/ingress/intro",
+              "id": "overview/architecture",
+              "path": "/fsm-docs/docs/overview/architecture",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "multi-cluster/intro",
-              "path": "/fsm-docs/docs/multi-cluster/intro",
+              "id": "overview/concepts",
+              "path": "/fsm-docs/docs/overview/concepts",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -61,8 +151,48 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "releases/intro",
-              "path": "/fsm-docs/docs/releases/intro",
+              "id": "releases/feature-lifecycle",
+              "path": "/fsm-docs/docs/releases/feature-lifecycle",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "releases/histrory",
+              "path": "/fsm-docs/docs/releases/histrory",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial/certificate-management",
+              "path": "/fsm-docs/docs/tutorial/certificate-management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial/egress-gateway",
+              "path": "/fsm-docs/docs/tutorial/egress-gateway",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial/ingress-controller-and-gateway-api",
+              "path": "/fsm-docs/docs/tutorial/ingress-controller-and-gateway-api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial/integrate-with-flb",
+              "path": "/fsm-docs/docs/tutorial/integrate-with-flb",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial/multicluster",
+              "path": "/fsm-docs/docs/tutorial/multicluster",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial/namespacedingress",
+              "path": "/fsm-docs/docs/tutorial/namespacedingress",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial/service-lb",
+              "path": "/fsm-docs/docs/tutorial/service-lb",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -76,13 +206,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/how-to-guides",
-              "path": "/fsm-docs/docs/category/how-to-guides",
+              "id": "/category/install",
+              "path": "/fsm-docs/docs/category/install",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/releases",
-              "path": "/fsm-docs/docs/category/releases",
+              "id": "/category/enable-features",
+              "path": "/fsm-docs/docs/category/enable-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial",
+              "path": "/fsm-docs/docs/category/tutorial",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -96,13 +231,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/ingress-controller",
-              "path": "/fsm-docs/docs/category/ingress-controller",
+              "id": "/category/single-cluster",
+              "path": "/fsm-docs/docs/category/single-cluster",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/multi-cluster",
               "path": "/fsm-docs/docs/category/multi-cluster",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/releases",
+              "path": "/fsm-docs/docs/category/releases",
               "sidebar": "tutorialSidebar"
             }
           ],

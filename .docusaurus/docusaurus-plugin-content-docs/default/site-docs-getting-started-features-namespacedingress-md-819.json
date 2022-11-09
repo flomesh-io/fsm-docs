@@ -1,0 +1,27 @@
+{
+  "unversionedId": "getting-started/features/namespacedingress",
+  "id": "getting-started/features/namespacedingress",
+  "title": "NamespacedIngress",
+  "description": "",
+  "source": "@site/docs/getting-started/features/namespacedingress.md",
+  "sourceDirName": "getting-started/features",
+  "slug": "/getting-started/features/namespacedingress",
+  "permalink": "/fsm-docs/docs/getting-started/features/namespacedingress",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/features/namespacedingress.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ingress Controller and Gateway API",
+    "permalink": "/fsm-docs/docs/getting-started/features/ingress-controller-and-gateway-api"
+  },
+  "next": {
+    "title": "Multicluster",
+    "permalink": "/fsm-docs/docs/getting-started/features/multicluster"
+  }
+}

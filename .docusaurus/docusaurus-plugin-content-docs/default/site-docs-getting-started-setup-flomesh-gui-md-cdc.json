@@ -1,0 +1,27 @@
+{
+  "unversionedId": "getting-started/setup-flomesh-gui",
+  "id": "getting-started/setup-flomesh-gui",
+  "title": "Setup Flomesh GUI",
+  "description": "",
+  "source": "@site/docs/getting-started/setup-flomesh-gui.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/setup-flomesh-gui",
+  "permalink": "/fsm-docs/docs/getting-started/setup-flomesh-gui",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/setup-flomesh-gui.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Logging and Metrics",
+    "permalink": "/fsm-docs/docs/getting-started/features/logging-and-metrics"
+  },
+  "next": {
+    "title": "Uninstall",
+    "permalink": "/fsm-docs/docs/getting-started/uninstall"
+  }
+}

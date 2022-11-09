@@ -4,12 +4,12 @@
   "permalink": "/fsm-docs/docs/category/ingress-controller",
   "navigation": {
     "previous": {
-      "title": "intro",
-      "permalink": "/fsm-docs/docs/demos/intro"
+      "title": "Demos",
+      "permalink": "/fsm-docs/docs/category/demos"
     },
     "next": {
       "title": "intro",
-      "permalink": "/fsm-docs/docs/ingress/intro"
+      "permalink": "/fsm-docs/docs/demos/ingress/intro"
     }
   }
 }

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial/multicluster",
+  "id": "tutorial/multicluster",
+  "title": "Multicluster",
+  "description": "",
+  "source": "@site/docs/tutorial/multicluster.md",
+  "sourceDirName": "tutorial",
+  "slug": "/tutorial/multicluster",
+  "permalink": "/fsm-docs/docs/tutorial/multicluster",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial/multicluster.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NamespacedIngress",
+    "permalink": "/fsm-docs/docs/tutorial/namespacedingress"
+  },
+  "next": {
+    "title": "Service Load Balancer",
+    "permalink": "/fsm-docs/docs/tutorial/service-lb"
+  }
+}

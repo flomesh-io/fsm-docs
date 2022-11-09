@@ -1,0 +1,27 @@
+{
+  "unversionedId": "getting-started/features/multicluster",
+  "id": "getting-started/features/multicluster",
+  "title": "Multicluster",
+  "description": "",
+  "source": "@site/docs/getting-started/features/multicluster.md",
+  "sourceDirName": "getting-started/features",
+  "slug": "/getting-started/features/multicluster",
+  "permalink": "/fsm-docs/docs/getting-started/features/multicluster",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/features/multicluster.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NamespacedIngress",
+    "permalink": "/fsm-docs/docs/getting-started/features/namespacedingress"
+  },
+  "next": {
+    "title": "Service Load Balancer",
+    "permalink": "/fsm-docs/docs/getting-started/features/service-lb"
+  }
+}

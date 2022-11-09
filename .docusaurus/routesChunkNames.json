@@ -2,71 +2,95 @@
   "/fsm-docs/__docusaurus/debug-15b": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-75-b-838"
+      "plugin": "plugin---fsm-docs-docusaurus-debug-75-b-a1a"
     }
   },
   "/fsm-docs/__docusaurus/debug/config-6dc": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-75-b-838"
+      "plugin": "plugin---fsm-docs-docusaurus-debug-75-b-a1a"
     }
   },
   "/fsm-docs/__docusaurus/debug/content-dea": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-75-b-838"
+      "plugin": "plugin---fsm-docs-docusaurus-debug-75-b-a1a"
     },
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+    "allContent": "allContent---fsm-docs-docusaurus-debug-content-246-c9e"
   },
   "/fsm-docs/__docusaurus/debug/globalData-050": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-75-b-838"
+      "plugin": "plugin---fsm-docs-docusaurus-debug-75-b-a1a"
     }
   },
   "/fsm-docs/__docusaurus/debug/metadata-c59": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-75-b-838"
+      "plugin": "plugin---fsm-docs-docusaurus-debug-75-b-a1a"
     }
   },
   "/fsm-docs/__docusaurus/debug/registry-33a": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-75-b-838"
+      "plugin": "plugin---fsm-docs-docusaurus-debug-75-b-a1a"
     }
   },
   "/fsm-docs/__docusaurus/debug/routes-4d2": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-75-b-838"
+      "plugin": "plugin---fsm-docs-docusaurus-debug-75-b-a1a"
     }
   },
   "/fsm-docs/markdown-page-219": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---markdown-pagec-98-832"
+      "plugin": "plugin---fsm-docs-markdown-pagec-98-2d0"
     },
-    "content": "content---markdown-page-393-028"
+    "content": "content---fsm-docs-markdown-page-393-c69"
   },
-  "/fsm-docs/docs-4e3": {
+  "/fsm-docs/docs-95c": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---docs-4-fc-5ab"
+      "plugin": "plugin---fsm-docs-docs-4-fc-bb9"
     },
-    "versionMetadata": "versionMetadata---docs-935-398"
+    "versionMetadata": "versionMetadata---fsm-docs-docs-935-703"
   },
   "/fsm-docs/docs/-845": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---fsm-docs-docs-c-37-089"
   },
-  "/fsm-docs/docs/api-references/intro-6f4": {
+  "/fsm-docs/docs/api-references/cluster-3d7": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---fsm-docs-docs-api-references-intro-586-bca"
+    "content": "content---fsm-docs-docs-api-references-cluster-8-f-1-df5"
   },
-  "/fsm-docs/docs/architecture-468": {
+  "/fsm-docs/docs/api-references/globaltrafficpolicy-32d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---fsm-docs-docs-architecture-528-463"
+    "content": "content---fsm-docs-docs-api-references-globaltrafficpolicy-6-bc-804"
+  },
+  "/fsm-docs/docs/api-references/multiclusterendpoint-3b3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fsm-docs-docs-api-references-multiclusterendpoint-35-a-7cc"
+  },
+  "/fsm-docs/docs/api-references/namespacedingress-1b5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fsm-docs-docs-api-references-namespacedingresse-69-ed4"
+  },
+  "/fsm-docs/docs/api-references/proxy-d8f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fsm-docs-docs-api-references-proxy-712-6b6"
+  },
+  "/fsm-docs/docs/api-references/proxyprofile-f66": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fsm-docs-docs-api-references-proxyprofile-24-c-cf5"
+  },
+  "/fsm-docs/docs/api-references/serviceexport-cdb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fsm-docs-docs-api-references-serviceexport-8-a-8-b3a"
+  },
+  "/fsm-docs/docs/api-references/serviceimport-e5c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fsm-docs-docs-api-references-serviceimport-726-573"
   },
   "/fsm-docs/docs/category/api-references-5ec": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -76,17 +100,17 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---fsm-docs-docs-category-demos-36-c-1c4"
   },
+  "/fsm-docs/docs/category/enable-features-d7d": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---fsm-docs-docs-category-enable-featuresc-82-6fb"
+  },
   "/fsm-docs/docs/category/getting-started-54f": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---fsm-docs-docs-category-getting-startedf-5-a-76f"
   },
-  "/fsm-docs/docs/category/how-to-guides-e0b": {
+  "/fsm-docs/docs/category/install-a04": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---fsm-docs-docs-category-how-to-guides-549-151"
-  },
-  "/fsm-docs/docs/category/ingress-controller-8a3": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---fsm-docs-docs-category-ingress-controllere-1-d-65f"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---fsm-docs-docs-category-installec-4-94b"
   },
   "/fsm-docs/docs/category/multi-cluster-56f": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -100,25 +124,81 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---fsm-docs-docs-category-releasese-0-a-1c9"
   },
-  "/fsm-docs/docs/demos/intro-19c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---fsm-docs-docs-demos-intro-644-956"
+  "/fsm-docs/docs/category/single-cluster-183": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---fsm-docs-docs-category-single-clusterca-9-5db"
   },
-  "/fsm-docs/docs/getting-started/intro-2be": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---fsm-docs-docs-getting-started-intro-6-df-e13"
+  "/fsm-docs/docs/category/tutorial-dea": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---fsm-docs-docs-category-tutorial-075-7b5"
   },
-  "/fsm-docs/docs/how-to/intro-235": {
+  "/fsm-docs/docs/demos/multi-cluster/intro-2fd": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---fsm-docs-docs-how-to-introaf-9-ffa"
+    "content": "content---fsm-docs-docs-demos-multi-cluster-introf-27-d1f"
   },
-  "/fsm-docs/docs/ingress/intro-3f2": {
+  "/fsm-docs/docs/demos/single-cluster/intro-652": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---fsm-docs-docs-ingress-intro-130-262"
+    "content": "content---fsm-docs-docs-demos-single-cluster-introf-22-800"
   },
-  "/fsm-docs/docs/multi-cluster/intro-fea": {
+  "/fsm-docs/docs/getting-started/features/egress-gateway-9eb": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---fsm-docs-docs-multi-cluster-intro-310-ac7"
+    "content": "content---fsm-docs-docs-getting-started-features-egress-gateway-102-b4f"
+  },
+  "/fsm-docs/docs/getting-started/features/ingress-controller-and-gateway-api-33c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fsm-docs-docs-getting-started-features-ingress-controller-and-gateway-api-996-d65"
+  },
+  "/fsm-docs/docs/getting-started/features/integrate-with-flb-a37": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fsm-docs-docs-getting-started-features-integrate-with-flb-016-d26"
+  },
+  "/fsm-docs/docs/getting-started/features/logging-and-metrics-63b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fsm-docs-docs-getting-started-features-logging-and-metrics-0-f-4-755"
+  },
+  "/fsm-docs/docs/getting-started/features/multicluster-83d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fsm-docs-docs-getting-started-features-multicluster-98-d-f63"
+  },
+  "/fsm-docs/docs/getting-started/features/namespacedingress-a6e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fsm-docs-docs-getting-started-features-namespacedingress-819-7e4"
+  },
+  "/fsm-docs/docs/getting-started/features/service-lb-a23": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fsm-docs-docs-getting-started-features-service-lbf-15-503"
+  },
+  "/fsm-docs/docs/getting-started/install/install-with-cli-309": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fsm-docs-docs-getting-started-install-install-with-clia-74-d77"
+  },
+  "/fsm-docs/docs/getting-started/install/install-with-helm-733": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fsm-docs-docs-getting-started-install-install-with-helm-57-f-f6c"
+  },
+  "/fsm-docs/docs/getting-started/install/install-with-static-yaml-611": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fsm-docs-docs-getting-started-install-install-with-static-yaml-0-d-3-2df"
+  },
+  "/fsm-docs/docs/getting-started/install/prerequisites-4bc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fsm-docs-docs-getting-started-install-prerequisitesb-02-25b"
+  },
+  "/fsm-docs/docs/getting-started/setup-flomesh-gui-920": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fsm-docs-docs-getting-started-setup-flomesh-guicdc-187"
+  },
+  "/fsm-docs/docs/getting-started/uninstall-1ce": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fsm-docs-docs-getting-started-uninstalla-42-d11"
+  },
+  "/fsm-docs/docs/overview/architecture-e2a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fsm-docs-docs-overview-architectured-72-075"
+  },
+  "/fsm-docs/docs/overview/concepts-0f1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fsm-docs-docs-overview-concepts-118-536"
   },
   "/fsm-docs/docs/overview/intro-dad": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -128,15 +208,47 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---fsm-docs-docs-quick-start-72-e-a6c"
   },
-  "/fsm-docs/docs/releases/intro-5e2": {
+  "/fsm-docs/docs/releases/feature-lifecycle-ed1": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---fsm-docs-docs-releases-intro-80-c-209"
+    "content": "content---fsm-docs-docs-releases-feature-lifecycle-276-43a"
+  },
+  "/fsm-docs/docs/releases/histrory-34e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fsm-docs-docs-releases-histrory-83-c-b16"
+  },
+  "/fsm-docs/docs/tutorial/certificate-management-b89": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fsm-docs-docs-tutorial-certificate-management-97-e-d96"
+  },
+  "/fsm-docs/docs/tutorial/egress-gateway-54f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fsm-docs-docs-tutorial-egress-gatewayd-98-b21"
+  },
+  "/fsm-docs/docs/tutorial/ingress-controller-and-gateway-api-4c4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fsm-docs-docs-tutorial-ingress-controller-and-gateway-api-93-b-d47"
+  },
+  "/fsm-docs/docs/tutorial/integrate-with-flb-a44": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fsm-docs-docs-tutorial-integrate-with-flbebf-aae"
+  },
+  "/fsm-docs/docs/tutorial/multicluster-e0c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fsm-docs-docs-tutorial-multicluster-26-e-d35"
+  },
+  "/fsm-docs/docs/tutorial/namespacedingress-ef1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fsm-docs-docs-tutorial-namespacedingress-7-d-0-d5c"
+  },
+  "/fsm-docs/docs/tutorial/service-lb-105": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fsm-docs-docs-tutorial-service-lbe-00-546"
   },
   "/fsm-docs/-b5a": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "plugin---markdown-pagec-98-832"
+      "plugin": "plugin---fsm-docs-markdown-pagec-98-2d0"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "config---fsm-docs-5-e-9-a11"
   }
 }

@@ -4,12 +4,12 @@
   "permalink": "/fsm-docs/docs/category/getting-started-1",
   "navigation": {
     "previous": {
-      "title": "intro",
-      "permalink": "/fsm-docs/docs/overview/intro"
+      "title": "Setup Flomesh GUI",
+      "permalink": "/fsm-docs/docs/getting-started/setup-flomesh-gui"
     },
     "next": {
-      "title": "intro",
-      "permalink": "/fsm-docs/docs/getting-started/intro"
+      "title": "Prerequisites",
+      "permalink": "/fsm-docs/docs/getting-started/install/prerequisites"
     }
   }
 }

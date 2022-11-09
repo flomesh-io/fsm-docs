@@ -20,16 +20,124 @@
           "contentPathLocalized": "/Users/linyang/workspace/flomesh-projects/fsm-docs/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
-              "unversionedId": "api-references/intro",
-              "id": "api-references/intro",
-              "title": "intro",
+              "unversionedId": "api-references/cluster",
+              "id": "api-references/cluster",
+              "title": "Cluster",
               "description": "",
-              "source": "@site/docs/api-references/intro.md",
+              "source": "@site/docs/api-references/cluster.md",
               "sourceDirName": "api-references",
-              "slug": "/api-references/intro",
-              "permalink": "/fsm-docs/docs/api-references/intro",
+              "slug": "/api-references/cluster",
+              "permalink": "/fsm-docs/docs/api-references/cluster",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/api-references/intro.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/api-references/cluster.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "ProxyProfile",
+                "permalink": "/fsm-docs/docs/api-references/proxyprofile"
+              },
+              "next": {
+                "title": "NamespacedIngress",
+                "permalink": "/fsm-docs/docs/api-references/namespacedingress"
+              }
+            },
+            {
+              "unversionedId": "api-references/globaltrafficpolicy",
+              "id": "api-references/globaltrafficpolicy",
+              "title": "GlobalTrafficPolicy",
+              "description": "",
+              "source": "@site/docs/api-references/globaltrafficpolicy.md",
+              "sourceDirName": "api-references",
+              "slug": "/api-references/globaltrafficpolicy",
+              "permalink": "/fsm-docs/docs/api-references/globaltrafficpolicy",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/api-references/globaltrafficpolicy.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "MultiClusterEndpoint",
+                "permalink": "/fsm-docs/docs/api-references/multiclusterendpoint"
+              },
+              "next": {
+                "title": "Demos",
+                "permalink": "/fsm-docs/docs/category/demos"
+              }
+            },
+            {
+              "unversionedId": "api-references/multiclusterendpoint",
+              "id": "api-references/multiclusterendpoint",
+              "title": "MultiClusterEndpoint",
+              "description": "",
+              "source": "@site/docs/api-references/multiclusterendpoint.md",
+              "sourceDirName": "api-references",
+              "slug": "/api-references/multiclusterendpoint",
+              "permalink": "/fsm-docs/docs/api-references/multiclusterendpoint",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/api-references/multiclusterendpoint.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "ServiceImport",
+                "permalink": "/fsm-docs/docs/api-references/serviceimport"
+              },
+              "next": {
+                "title": "GlobalTrafficPolicy",
+                "permalink": "/fsm-docs/docs/api-references/globaltrafficpolicy"
+              }
+            },
+            {
+              "unversionedId": "api-references/namespacedingress",
+              "id": "api-references/namespacedingress",
+              "title": "NamespacedIngress",
+              "description": "",
+              "source": "@site/docs/api-references/namespacedingress.md",
+              "sourceDirName": "api-references",
+              "slug": "/api-references/namespacedingress",
+              "permalink": "/fsm-docs/docs/api-references/namespacedingress",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/api-references/namespacedingress.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Cluster",
+                "permalink": "/fsm-docs/docs/api-references/cluster"
+              },
+              "next": {
+                "title": "ServiceExport",
+                "permalink": "/fsm-docs/docs/api-references/serviceexport"
+              }
+            },
+            {
+              "unversionedId": "api-references/proxy",
+              "id": "api-references/proxy",
+              "title": "Proxy",
+              "description": "",
+              "source": "@site/docs/api-references/proxy.md",
+              "sourceDirName": "api-references",
+              "slug": "/api-references/proxy",
+              "permalink": "/fsm-docs/docs/api-references/proxy",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/api-references/proxy.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -42,21 +150,264 @@
                 "permalink": "/fsm-docs/docs/category/api-references"
               },
               "next": {
-                "title": "Demos",
-                "permalink": "/fsm-docs/docs/category/demos"
+                "title": "ProxyProfile",
+                "permalink": "/fsm-docs/docs/api-references/proxyprofile"
               }
             },
             {
-              "unversionedId": "architecture",
-              "id": "architecture",
-              "title": "Architecture",
-              "description": "Architecture",
-              "source": "@site/docs/architecture.md",
-              "sourceDirName": ".",
-              "slug": "/architecture",
-              "permalink": "/fsm-docs/docs/architecture",
+              "unversionedId": "api-references/proxyprofile",
+              "id": "api-references/proxyprofile",
+              "title": "ProxyProfile",
+              "description": "",
+              "source": "@site/docs/api-references/proxyprofile.md",
+              "sourceDirName": "api-references",
+              "slug": "/api-references/proxyprofile",
+              "permalink": "/fsm-docs/docs/api-references/proxyprofile",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/architecture.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/api-references/proxyprofile.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Proxy",
+                "permalink": "/fsm-docs/docs/api-references/proxy"
+              },
+              "next": {
+                "title": "Cluster",
+                "permalink": "/fsm-docs/docs/api-references/cluster"
+              }
+            },
+            {
+              "unversionedId": "api-references/serviceexport",
+              "id": "api-references/serviceexport",
+              "title": "ServiceExport",
+              "description": "",
+              "source": "@site/docs/api-references/serviceexport.md",
+              "sourceDirName": "api-references",
+              "slug": "/api-references/serviceexport",
+              "permalink": "/fsm-docs/docs/api-references/serviceexport",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/api-references/serviceexport.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "NamespacedIngress",
+                "permalink": "/fsm-docs/docs/api-references/namespacedingress"
+              },
+              "next": {
+                "title": "ServiceImport",
+                "permalink": "/fsm-docs/docs/api-references/serviceimport"
+              }
+            },
+            {
+              "unversionedId": "api-references/serviceimport",
+              "id": "api-references/serviceimport",
+              "title": "ServiceImport",
+              "description": "",
+              "source": "@site/docs/api-references/serviceimport.md",
+              "sourceDirName": "api-references",
+              "slug": "/api-references/serviceimport",
+              "permalink": "/fsm-docs/docs/api-references/serviceimport",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/api-references/serviceimport.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "ServiceExport",
+                "permalink": "/fsm-docs/docs/api-references/serviceexport"
+              },
+              "next": {
+                "title": "MultiClusterEndpoint",
+                "permalink": "/fsm-docs/docs/api-references/multiclusterendpoint"
+              }
+            },
+            {
+              "unversionedId": "demos/multi-cluster/intro",
+              "id": "demos/multi-cluster/intro",
+              "title": "intro",
+              "description": "",
+              "source": "@site/docs/demos/multi-cluster/intro.md",
+              "sourceDirName": "demos/multi-cluster",
+              "slug": "/demos/multi-cluster/intro",
+              "permalink": "/fsm-docs/docs/demos/multi-cluster/intro",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/demos/multi-cluster/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Multi Cluster",
+                "permalink": "/fsm-docs/docs/category/multi-cluster"
+              },
+              "next": {
+                "title": "Releases",
+                "permalink": "/fsm-docs/docs/category/releases"
+              }
+            },
+            {
+              "unversionedId": "demos/single-cluster/intro",
+              "id": "demos/single-cluster/intro",
+              "title": "intro",
+              "description": "",
+              "source": "@site/docs/demos/single-cluster/intro.md",
+              "sourceDirName": "demos/single-cluster",
+              "slug": "/demos/single-cluster/intro",
+              "permalink": "/fsm-docs/docs/demos/single-cluster/intro",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/demos/single-cluster/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Single Cluster",
+                "permalink": "/fsm-docs/docs/category/single-cluster"
+              },
+              "next": {
+                "title": "Multi Cluster",
+                "permalink": "/fsm-docs/docs/category/multi-cluster"
+              }
+            },
+            {
+              "unversionedId": "getting-started/features/egress-gateway",
+              "id": "getting-started/features/egress-gateway",
+              "title": "Egress Gateway",
+              "description": "",
+              "source": "@site/docs/getting-started/features/egress-gateway.md",
+              "sourceDirName": "getting-started/features",
+              "slug": "/getting-started/features/egress-gateway",
+              "permalink": "/fsm-docs/docs/getting-started/features/egress-gateway",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/features/egress-gateway.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Integrate with FLB",
+                "permalink": "/fsm-docs/docs/getting-started/features/integrate-with-flb"
+              },
+              "next": {
+                "title": "Logging and Metrics",
+                "permalink": "/fsm-docs/docs/getting-started/features/logging-and-metrics"
+              }
+            },
+            {
+              "unversionedId": "getting-started/features/ingress-controller-and-gateway-api",
+              "id": "getting-started/features/ingress-controller-and-gateway-api",
+              "title": "Ingress Controller and Gateway API",
+              "description": "",
+              "source": "@site/docs/getting-started/features/ingress-controller-and-gateway-api.md",
+              "sourceDirName": "getting-started/features",
+              "slug": "/getting-started/features/ingress-controller-and-gateway-api",
+              "permalink": "/fsm-docs/docs/getting-started/features/ingress-controller-and-gateway-api",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/features/ingress-controller-and-gateway-api.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Enable Features",
+                "permalink": "/fsm-docs/docs/category/enable-features"
+              },
+              "next": {
+                "title": "NamespacedIngress",
+                "permalink": "/fsm-docs/docs/getting-started/features/namespacedingress"
+              }
+            },
+            {
+              "unversionedId": "getting-started/features/integrate-with-flb",
+              "id": "getting-started/features/integrate-with-flb",
+              "title": "Integrate with FLB",
+              "description": "",
+              "source": "@site/docs/getting-started/features/integrate-with-flb.md",
+              "sourceDirName": "getting-started/features",
+              "slug": "/getting-started/features/integrate-with-flb",
+              "permalink": "/fsm-docs/docs/getting-started/features/integrate-with-flb",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/features/integrate-with-flb.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Service Load Balancer",
+                "permalink": "/fsm-docs/docs/getting-started/features/service-lb"
+              },
+              "next": {
+                "title": "Egress Gateway",
+                "permalink": "/fsm-docs/docs/getting-started/features/egress-gateway"
+              }
+            },
+            {
+              "unversionedId": "getting-started/features/logging-and-metrics",
+              "id": "getting-started/features/logging-and-metrics",
+              "title": "Logging and Metrics",
+              "description": "",
+              "source": "@site/docs/getting-started/features/logging-and-metrics.md",
+              "sourceDirName": "getting-started/features",
+              "slug": "/getting-started/features/logging-and-metrics",
+              "permalink": "/fsm-docs/docs/getting-started/features/logging-and-metrics",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/features/logging-and-metrics.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Egress Gateway",
+                "permalink": "/fsm-docs/docs/getting-started/features/egress-gateway"
+              },
+              "next": {
+                "title": "Setup Flomesh GUI",
+                "permalink": "/fsm-docs/docs/getting-started/setup-flomesh-gui"
+              }
+            },
+            {
+              "unversionedId": "getting-started/features/multicluster",
+              "id": "getting-started/features/multicluster",
+              "title": "Multicluster",
+              "description": "",
+              "source": "@site/docs/getting-started/features/multicluster.md",
+              "sourceDirName": "getting-started/features",
+              "slug": "/getting-started/features/multicluster",
+              "permalink": "/fsm-docs/docs/getting-started/features/multicluster",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/features/multicluster.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -65,25 +416,160 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Quick Start",
-                "permalink": "/fsm-docs/docs/quick-start"
+                "title": "NamespacedIngress",
+                "permalink": "/fsm-docs/docs/getting-started/features/namespacedingress"
               },
               "next": {
-                "title": "Overview",
-                "permalink": "/fsm-docs/docs/category/overview"
+                "title": "Service Load Balancer",
+                "permalink": "/fsm-docs/docs/getting-started/features/service-lb"
               }
             },
             {
-              "unversionedId": "demos/intro",
-              "id": "demos/intro",
-              "title": "intro",
+              "unversionedId": "getting-started/features/namespacedingress",
+              "id": "getting-started/features/namespacedingress",
+              "title": "NamespacedIngress",
               "description": "",
-              "source": "@site/docs/demos/intro.md",
-              "sourceDirName": "demos",
-              "slug": "/demos/intro",
-              "permalink": "/fsm-docs/docs/demos/intro",
+              "source": "@site/docs/getting-started/features/namespacedingress.md",
+              "sourceDirName": "getting-started/features",
+              "slug": "/getting-started/features/namespacedingress",
+              "permalink": "/fsm-docs/docs/getting-started/features/namespacedingress",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/demos/intro.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/features/namespacedingress.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Ingress Controller and Gateway API",
+                "permalink": "/fsm-docs/docs/getting-started/features/ingress-controller-and-gateway-api"
+              },
+              "next": {
+                "title": "Multicluster",
+                "permalink": "/fsm-docs/docs/getting-started/features/multicluster"
+              }
+            },
+            {
+              "unversionedId": "getting-started/features/service-lb",
+              "id": "getting-started/features/service-lb",
+              "title": "Service Load Balancer",
+              "description": "",
+              "source": "@site/docs/getting-started/features/service-lb.md",
+              "sourceDirName": "getting-started/features",
+              "slug": "/getting-started/features/service-lb",
+              "permalink": "/fsm-docs/docs/getting-started/features/service-lb",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/features/service-lb.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Multicluster",
+                "permalink": "/fsm-docs/docs/getting-started/features/multicluster"
+              },
+              "next": {
+                "title": "Integrate with FLB",
+                "permalink": "/fsm-docs/docs/getting-started/features/integrate-with-flb"
+              }
+            },
+            {
+              "unversionedId": "getting-started/install/install-with-cli",
+              "id": "getting-started/install/install-with-cli",
+              "title": "Install with CLI",
+              "description": "",
+              "source": "@site/docs/getting-started/install/install-with-cli.md",
+              "sourceDirName": "getting-started/install",
+              "slug": "/getting-started/install/install-with-cli",
+              "permalink": "/fsm-docs/docs/getting-started/install/install-with-cli",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/install/install-with-cli.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Install With Helm",
+                "permalink": "/fsm-docs/docs/getting-started/install/install-with-helm"
+              },
+              "next": {
+                "title": "Install with static YAML",
+                "permalink": "/fsm-docs/docs/getting-started/install/install-with-static-yaml"
+              }
+            },
+            {
+              "unversionedId": "getting-started/install/install-with-helm",
+              "id": "getting-started/install/install-with-helm",
+              "title": "Install With Helm",
+              "description": "",
+              "source": "@site/docs/getting-started/install/install-with-helm.md",
+              "sourceDirName": "getting-started/install",
+              "slug": "/getting-started/install/install-with-helm",
+              "permalink": "/fsm-docs/docs/getting-started/install/install-with-helm",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/install/install-with-helm.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Prerequisites",
+                "permalink": "/fsm-docs/docs/getting-started/install/prerequisites"
+              },
+              "next": {
+                "title": "Install with CLI",
+                "permalink": "/fsm-docs/docs/getting-started/install/install-with-cli"
+              }
+            },
+            {
+              "unversionedId": "getting-started/install/install-with-static-yaml",
+              "id": "getting-started/install/install-with-static-yaml",
+              "title": "Install with static YAML",
+              "description": "",
+              "source": "@site/docs/getting-started/install/install-with-static-yaml.md",
+              "sourceDirName": "getting-started/install",
+              "slug": "/getting-started/install/install-with-static-yaml",
+              "permalink": "/fsm-docs/docs/getting-started/install/install-with-static-yaml",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/install/install-with-static-yaml.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Install with CLI",
+                "permalink": "/fsm-docs/docs/getting-started/install/install-with-cli"
+              },
+              "next": {
+                "title": "Enable Features",
+                "permalink": "/fsm-docs/docs/category/enable-features"
+              }
+            },
+            {
+              "unversionedId": "getting-started/install/prerequisites",
+              "id": "getting-started/install/prerequisites",
+              "title": "Prerequisites",
+              "description": "",
+              "source": "@site/docs/getting-started/install/prerequisites.md",
+              "sourceDirName": "getting-started/install",
+              "slug": "/getting-started/install/prerequisites",
+              "permalink": "/fsm-docs/docs/getting-started/install/prerequisites",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/install/prerequisites.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -92,66 +578,66 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Demos",
-                "permalink": "/fsm-docs/docs/category/demos"
+                "title": "Install",
+                "permalink": "/fsm-docs/docs/category/install"
               },
               "next": {
-                "title": "Ingress Controller",
-                "permalink": "/fsm-docs/docs/category/ingress-controller"
+                "title": "Install With Helm",
+                "permalink": "/fsm-docs/docs/getting-started/install/install-with-helm"
               }
             },
             {
-              "unversionedId": "getting-started/intro",
-              "id": "getting-started/intro",
-              "title": "intro",
+              "unversionedId": "getting-started/setup-flomesh-gui",
+              "id": "getting-started/setup-flomesh-gui",
+              "title": "Setup Flomesh GUI",
               "description": "",
-              "source": "@site/docs/getting-started/intro.md",
+              "source": "@site/docs/getting-started/setup-flomesh-gui.md",
               "sourceDirName": "getting-started",
-              "slug": "/getting-started/intro",
-              "permalink": "/fsm-docs/docs/getting-started/intro",
+              "slug": "/getting-started/setup-flomesh-gui",
+              "permalink": "/fsm-docs/docs/getting-started/setup-flomesh-gui",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/intro.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/setup-flomesh-gui.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 1,
+              "sidebarPosition": 3,
               "frontMatter": {
-                "sidebar_position": 1
+                "sidebar_position": 3
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Getting Started",
-                "permalink": "/fsm-docs/docs/category/getting-started"
+                "title": "Logging and Metrics",
+                "permalink": "/fsm-docs/docs/getting-started/features/logging-and-metrics"
               },
               "next": {
-                "title": "How-to Guides",
-                "permalink": "/fsm-docs/docs/category/how-to-guides"
+                "title": "Uninstall",
+                "permalink": "/fsm-docs/docs/getting-started/uninstall"
               }
             },
             {
-              "unversionedId": "how-to/intro",
-              "id": "how-to/intro",
-              "title": "intro",
+              "unversionedId": "getting-started/uninstall",
+              "id": "getting-started/uninstall",
+              "title": "Uninstall",
               "description": "",
-              "source": "@site/docs/how-to/intro.md",
-              "sourceDirName": "how-to",
-              "slug": "/how-to/intro",
-              "permalink": "/fsm-docs/docs/how-to/intro",
+              "source": "@site/docs/getting-started/uninstall.md",
+              "sourceDirName": "getting-started",
+              "slug": "/getting-started/uninstall",
+              "permalink": "/fsm-docs/docs/getting-started/uninstall",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/how-to/intro.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/uninstall.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 1,
+              "sidebarPosition": 4,
               "frontMatter": {
-                "sidebar_position": 1
+                "sidebar_position": 4
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "How-to Guides",
-                "permalink": "/fsm-docs/docs/category/how-to-guides"
+                "title": "Setup Flomesh GUI",
+                "permalink": "/fsm-docs/docs/getting-started/setup-flomesh-gui"
               },
               "next": {
-                "title": "Releases",
-                "permalink": "/fsm-docs/docs/category/releases"
+                "title": "Tutorial",
+                "permalink": "/fsm-docs/docs/category/tutorial"
               }
             },
             {
@@ -178,59 +664,63 @@
               }
             },
             {
-              "unversionedId": "ingress/intro",
-              "id": "ingress/intro",
-              "title": "intro",
-              "description": "",
-              "source": "@site/docs/ingress/intro.md",
-              "sourceDirName": "ingress",
-              "slug": "/ingress/intro",
-              "permalink": "/fsm-docs/docs/ingress/intro",
+              "unversionedId": "overview/architecture",
+              "id": "overview/architecture",
+              "title": "Architecture",
+              "description": "Architecture",
+              "source": "@site/docs/overview/architecture.md",
+              "sourceDirName": "overview",
+              "slug": "/overview/architecture",
+              "permalink": "/fsm-docs/docs/overview/architecture",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ingress/intro.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/overview/architecture.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 1,
+              "sidebarPosition": 2,
               "frontMatter": {
-                "sidebar_position": 1
+                "sidebar_position": 2
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Ingress Controller",
-                "permalink": "/fsm-docs/docs/category/ingress-controller"
+                "title": "Introduction",
+                "permalink": "/fsm-docs/docs/overview/intro"
               },
               "next": {
-                "title": "Multi Cluster",
-                "permalink": "/fsm-docs/docs/category/multi-cluster"
+                "title": "Concepts",
+                "permalink": "/fsm-docs/docs/overview/concepts"
               }
             },
             {
-              "unversionedId": "multi-cluster/intro",
-              "id": "multi-cluster/intro",
-              "title": "intro",
+              "unversionedId": "overview/concepts",
+              "id": "overview/concepts",
+              "title": "Concepts",
               "description": "",
-              "source": "@site/docs/multi-cluster/intro.md",
-              "sourceDirName": "multi-cluster",
-              "slug": "/multi-cluster/intro",
-              "permalink": "/fsm-docs/docs/multi-cluster/intro",
+              "source": "@site/docs/overview/concepts.md",
+              "sourceDirName": "overview",
+              "slug": "/overview/concepts",
+              "permalink": "/fsm-docs/docs/overview/concepts",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/multi-cluster/intro.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/overview/concepts.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 1,
+              "sidebarPosition": 3,
               "frontMatter": {
-                "sidebar_position": 1
+                "sidebar_position": 3
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Multi Cluster",
-                "permalink": "/fsm-docs/docs/category/multi-cluster"
+                "title": "Architecture",
+                "permalink": "/fsm-docs/docs/overview/architecture"
+              },
+              "next": {
+                "title": "Getting Started",
+                "permalink": "/fsm-docs/docs/category/getting-started"
               }
             },
             {
               "unversionedId": "overview/intro",
               "id": "overview/intro",
-              "title": "Intro",
+              "title": "Introduction",
               "description": "Let's discover Docusaurus in less than 5 minutes.",
               "source": "@site/docs/overview/intro.md",
               "sourceDirName": "overview",
@@ -250,8 +740,8 @@
                 "permalink": "/fsm-docs/docs/category/overview"
               },
               "next": {
-                "title": "Getting Started",
-                "permalink": "/fsm-docs/docs/category/getting-started"
+                "title": "Architecture",
+                "permalink": "/fsm-docs/docs/overview/architecture"
               }
             },
             {
@@ -277,21 +767,44 @@
                 "permalink": "/fsm-docs/docs/"
               },
               "next": {
-                "title": "Architecture",
-                "permalink": "/fsm-docs/docs/architecture"
+                "title": "Overview",
+                "permalink": "/fsm-docs/docs/category/overview"
               }
             },
             {
-              "unversionedId": "releases/intro",
-              "id": "releases/intro",
-              "title": "intro",
+              "unversionedId": "releases/feature-lifecycle",
+              "id": "releases/feature-lifecycle",
+              "title": "Feature Lifecycle",
               "description": "",
-              "source": "@site/docs/releases/intro.md",
+              "source": "@site/docs/releases/feature-lifecycle.md",
               "sourceDirName": "releases",
-              "slug": "/releases/intro",
-              "permalink": "/fsm-docs/docs/releases/intro",
+              "slug": "/releases/feature-lifecycle",
+              "permalink": "/fsm-docs/docs/releases/feature-lifecycle",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/releases/intro.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/releases/feature-lifecycle.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "History",
+                "permalink": "/fsm-docs/docs/releases/histrory"
+              }
+            },
+            {
+              "unversionedId": "releases/histrory",
+              "id": "releases/histrory",
+              "title": "History",
+              "description": "",
+              "source": "@site/docs/releases/histrory.md",
+              "sourceDirName": "releases",
+              "slug": "/releases/histrory",
+              "permalink": "/fsm-docs/docs/releases/histrory",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/releases/histrory.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -304,8 +817,197 @@
                 "permalink": "/fsm-docs/docs/category/releases"
               },
               "next": {
+                "title": "Feature Lifecycle",
+                "permalink": "/fsm-docs/docs/releases/feature-lifecycle"
+              }
+            },
+            {
+              "unversionedId": "tutorial/certificate-management",
+              "id": "tutorial/certificate-management",
+              "title": "Certificate Management",
+              "description": "",
+              "source": "@site/docs/tutorial/certificate-management.md",
+              "sourceDirName": "tutorial",
+              "slug": "/tutorial/certificate-management",
+              "permalink": "/fsm-docs/docs/tutorial/certificate-management",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial/certificate-management.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Egress Gateway",
+                "permalink": "/fsm-docs/docs/tutorial/egress-gateway"
+              },
+              "next": {
                 "title": "API References",
                 "permalink": "/fsm-docs/docs/category/api-references"
+              }
+            },
+            {
+              "unversionedId": "tutorial/egress-gateway",
+              "id": "tutorial/egress-gateway",
+              "title": "Egress Gateway",
+              "description": "",
+              "source": "@site/docs/tutorial/egress-gateway.md",
+              "sourceDirName": "tutorial",
+              "slug": "/tutorial/egress-gateway",
+              "permalink": "/fsm-docs/docs/tutorial/egress-gateway",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial/egress-gateway.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Integrate with FLB",
+                "permalink": "/fsm-docs/docs/tutorial/integrate-with-flb"
+              },
+              "next": {
+                "title": "Certificate Management",
+                "permalink": "/fsm-docs/docs/tutorial/certificate-management"
+              }
+            },
+            {
+              "unversionedId": "tutorial/ingress-controller-and-gateway-api",
+              "id": "tutorial/ingress-controller-and-gateway-api",
+              "title": "Ingress Controller and Gateway API",
+              "description": "",
+              "source": "@site/docs/tutorial/ingress-controller-and-gateway-api.md",
+              "sourceDirName": "tutorial",
+              "slug": "/tutorial/ingress-controller-and-gateway-api",
+              "permalink": "/fsm-docs/docs/tutorial/ingress-controller-and-gateway-api",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial/ingress-controller-and-gateway-api.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tutorial",
+                "permalink": "/fsm-docs/docs/category/tutorial"
+              },
+              "next": {
+                "title": "NamespacedIngress",
+                "permalink": "/fsm-docs/docs/tutorial/namespacedingress"
+              }
+            },
+            {
+              "unversionedId": "tutorial/integrate-with-flb",
+              "id": "tutorial/integrate-with-flb",
+              "title": "Integrate with FLB",
+              "description": "",
+              "source": "@site/docs/tutorial/integrate-with-flb.md",
+              "sourceDirName": "tutorial",
+              "slug": "/tutorial/integrate-with-flb",
+              "permalink": "/fsm-docs/docs/tutorial/integrate-with-flb",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial/integrate-with-flb.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Service Load Balancer",
+                "permalink": "/fsm-docs/docs/tutorial/service-lb"
+              },
+              "next": {
+                "title": "Egress Gateway",
+                "permalink": "/fsm-docs/docs/tutorial/egress-gateway"
+              }
+            },
+            {
+              "unversionedId": "tutorial/multicluster",
+              "id": "tutorial/multicluster",
+              "title": "Multicluster",
+              "description": "",
+              "source": "@site/docs/tutorial/multicluster.md",
+              "sourceDirName": "tutorial",
+              "slug": "/tutorial/multicluster",
+              "permalink": "/fsm-docs/docs/tutorial/multicluster",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial/multicluster.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "NamespacedIngress",
+                "permalink": "/fsm-docs/docs/tutorial/namespacedingress"
+              },
+              "next": {
+                "title": "Service Load Balancer",
+                "permalink": "/fsm-docs/docs/tutorial/service-lb"
+              }
+            },
+            {
+              "unversionedId": "tutorial/namespacedingress",
+              "id": "tutorial/namespacedingress",
+              "title": "NamespacedIngress",
+              "description": "",
+              "source": "@site/docs/tutorial/namespacedingress.md",
+              "sourceDirName": "tutorial",
+              "slug": "/tutorial/namespacedingress",
+              "permalink": "/fsm-docs/docs/tutorial/namespacedingress",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial/namespacedingress.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Ingress Controller and Gateway API",
+                "permalink": "/fsm-docs/docs/tutorial/ingress-controller-and-gateway-api"
+              },
+              "next": {
+                "title": "Multicluster",
+                "permalink": "/fsm-docs/docs/tutorial/multicluster"
+              }
+            },
+            {
+              "unversionedId": "tutorial/service-lb",
+              "id": "tutorial/service-lb",
+              "title": "Service Load Balancer",
+              "description": "",
+              "source": "@site/docs/tutorial/service-lb.md",
+              "sourceDirName": "tutorial",
+              "slug": "/tutorial/service-lb",
+              "permalink": "/fsm-docs/docs/tutorial/service-lb",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial/service-lb.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Multicluster",
+                "permalink": "/fsm-docs/docs/tutorial/multicluster"
+              },
+              "next": {
+                "title": "Integrate with FLB",
+                "permalink": "/fsm-docs/docs/tutorial/integrate-with-flb"
               }
             }
           ],
@@ -321,10 +1023,6 @@
                 "id": "quick-start"
               },
               {
-                "type": "doc",
-                "id": "architecture"
-              },
-              {
                 "type": "category",
                 "label": "Overview",
                 "collapsible": true,
@@ -333,6 +1031,14 @@
                   {
                     "type": "doc",
                     "id": "overview/intro"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "overview/architecture"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "overview/concepts"
                   }
                 ],
                 "link": {
@@ -348,8 +1054,82 @@
                 "collapsed": true,
                 "items": [
                   {
+                    "type": "category",
+                    "label": "Install",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "getting-started/install/prerequisites"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "getting-started/install/install-with-helm"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "getting-started/install/install-with-cli"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "getting-started/install/install-with-static-yaml"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "slug": "/category/install",
+                      "permalink": "/fsm-docs/docs/category/install"
+                    }
+                  },
+                  {
+                    "type": "category",
+                    "label": "Enable Features",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "getting-started/features/ingress-controller-and-gateway-api"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "getting-started/features/namespacedingress"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "getting-started/features/multicluster"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "getting-started/features/service-lb"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "getting-started/features/integrate-with-flb"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "getting-started/features/egress-gateway"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "getting-started/features/logging-and-metrics"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "slug": "/category/enable-features",
+                      "permalink": "/fsm-docs/docs/category/enable-features"
+                    }
+                  },
+                  {
                     "type": "doc",
-                    "id": "getting-started/intro"
+                    "id": "getting-started/setup-flomesh-gui"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "getting-started/uninstall"
                   }
                 ],
                 "link": {
@@ -360,36 +1140,43 @@
               },
               {
                 "type": "category",
-                "label": "How-to Guides",
+                "label": "Tutorial",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "how-to/intro"
-                  }
-                ],
-                "link": {
-                  "type": "generated-index",
-                  "slug": "/category/how-to-guides",
-                  "permalink": "/fsm-docs/docs/category/how-to-guides"
-                }
-              },
-              {
-                "type": "category",
-                "label": "Releases",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
+                    "id": "tutorial/ingress-controller-and-gateway-api"
+                  },
                   {
                     "type": "doc",
-                    "id": "releases/intro"
+                    "id": "tutorial/namespacedingress"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial/multicluster"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial/service-lb"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial/integrate-with-flb"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial/egress-gateway"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial/certificate-management"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
-                  "slug": "/category/releases",
-                  "permalink": "/fsm-docs/docs/category/releases"
+                  "slug": "/category/tutorial",
+                  "permalink": "/fsm-docs/docs/category/tutorial"
                 }
               },
               {
@@ -400,7 +1187,35 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "api-references/intro"
+                    "id": "api-references/proxy"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "api-references/proxyprofile"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "api-references/cluster"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "api-references/namespacedingress"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "api-references/serviceexport"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "api-references/serviceimport"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "api-references/multiclusterendpoint"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "api-references/globaltrafficpolicy"
                   }
                 ],
                 "link": {
@@ -416,8 +1231,38 @@
                 "collapsed": true,
                 "items": [
                   {
-                    "type": "doc",
-                    "id": "demos/intro"
+                    "type": "category",
+                    "label": "Single Cluster",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "demos/single-cluster/intro"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "slug": "/category/single-cluster",
+                      "permalink": "/fsm-docs/docs/category/single-cluster"
+                    }
+                  },
+                  {
+                    "type": "category",
+                    "label": "Multi Cluster",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "demos/multi-cluster/intro"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "slug": "/category/multi-cluster",
+                      "permalink": "/fsm-docs/docs/category/multi-cluster"
+                    }
                   }
                 ],
                 "link": {
@@ -428,36 +1273,23 @@
               },
               {
                 "type": "category",
-                "label": "Ingress Controller",
+                "label": "Releases",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "ingress/intro"
-                  }
-                ],
-                "link": {
-                  "type": "generated-index",
-                  "slug": "/category/ingress-controller",
-                  "permalink": "/fsm-docs/docs/category/ingress-controller"
-                }
-              },
-              {
-                "type": "category",
-                "label": "Multi Cluster",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
+                    "id": "releases/histrory"
+                  },
                   {
                     "type": "doc",
-                    "id": "multi-cluster/intro"
+                    "id": "releases/feature-lifecycle"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
-                  "slug": "/category/multi-cluster",
-                  "permalink": "/fsm-docs/docs/category/multi-cluster"
+                  "slug": "/category/releases",
+                  "permalink": "/fsm-docs/docs/category/releases"
                 }
               }
             ]

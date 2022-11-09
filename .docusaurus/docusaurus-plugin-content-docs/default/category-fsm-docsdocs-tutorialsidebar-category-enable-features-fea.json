@@ -1,0 +1,15 @@
+{
+  "title": "Enable Features",
+  "slug": "/category/enable-features",
+  "permalink": "/fsm-docs/docs/category/enable-features",
+  "navigation": {
+    "previous": {
+      "title": "Install with static YAML",
+      "permalink": "/fsm-docs/docs/getting-started/install/install-with-static-yaml"
+    },
+    "next": {
+      "title": "Ingress Controller and Gateway API",
+      "permalink": "/fsm-docs/docs/getting-started/features/ingress-controller-and-gateway-api"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "getting-started/features/uninstall copy 6",
+  "id": "getting-started/features/uninstall copy 6",
+  "title": "Uninstall",
+  "description": "",
+  "source": "@site/docs/getting-started/features/uninstall copy 6.md",
+  "sourceDirName": "getting-started/features",
+  "slug": "/getting-started/features/uninstall copy 6",
+  "permalink": "/fsm-docs/docs/getting-started/features/uninstall copy 6",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/features/uninstall copy 6.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Service Load Balancer",
+    "permalink": "/fsm-docs/docs/getting-started/features/service-lb"
+  },
+  "next": {
+    "title": "Uninstall",
+    "permalink": "/fsm-docs/docs/getting-started/features/uninstall copy"
+  }
+}

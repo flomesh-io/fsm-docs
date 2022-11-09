@@ -4,11 +4,11 @@
   "permalink": "/fsm-docs/docs/category/overview",
   "navigation": {
     "previous": {
-      "title": "Architecture",
-      "permalink": "/fsm-docs/docs/architecture"
+      "title": "Quick Start",
+      "permalink": "/fsm-docs/docs/quick-start"
     },
     "next": {
-      "title": "Intro",
+      "title": "Introduction",
       "permalink": "/fsm-docs/docs/overview/intro"
     }
   }

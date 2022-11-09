@@ -1,0 +1,15 @@
+{
+  "title": "Tutorial",
+  "slug": "/category/tutorial",
+  "permalink": "/fsm-docs/docs/category/tutorial",
+  "navigation": {
+    "previous": {
+      "title": "Uninstall",
+      "permalink": "/fsm-docs/docs/getting-started/uninstall"
+    },
+    "next": {
+      "title": "Ingress Controller and Gateway API",
+      "permalink": "/fsm-docs/docs/tutorial/ingress-controller-and-gateway-api"
+    }
+  }
+}

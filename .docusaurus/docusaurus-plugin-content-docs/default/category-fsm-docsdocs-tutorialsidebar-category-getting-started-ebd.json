@@ -4,12 +4,12 @@
   "permalink": "/fsm-docs/docs/category/getting-started",
   "navigation": {
     "previous": {
-      "title": "Intro",
-      "permalink": "/fsm-docs/docs/overview/intro"
+      "title": "Concepts",
+      "permalink": "/fsm-docs/docs/overview/concepts"
     },
     "next": {
-      "title": "intro",
-      "permalink": "/fsm-docs/docs/getting-started/intro"
+      "title": "Install",
+      "permalink": "/fsm-docs/docs/category/install"
     }
   }
 }

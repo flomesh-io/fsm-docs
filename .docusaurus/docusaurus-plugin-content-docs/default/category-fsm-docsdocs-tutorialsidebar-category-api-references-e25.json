@@ -4,12 +4,12 @@
   "permalink": "/fsm-docs/docs/category/api-references",
   "navigation": {
     "previous": {
-      "title": "intro",
-      "permalink": "/fsm-docs/docs/releases/intro"
+      "title": "Certificate Management",
+      "permalink": "/fsm-docs/docs/tutorial/certificate-management"
     },
     "next": {
-      "title": "intro",
-      "permalink": "/fsm-docs/docs/api-references/intro"
+      "title": "Proxy",
+      "permalink": "/fsm-docs/docs/api-references/proxy"
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "unversionedId": "overview/intro",
   "id": "overview/intro",
-  "title": "Intro",
+  "title": "Introduction",
   "description": "Let's discover Docusaurus in less than 5 minutes.",
   "source": "@site/docs/overview/intro.md",
   "sourceDirName": "overview",
@@ -21,7 +21,7 @@
     "permalink": "/fsm-docs/docs/category/overview"
   },
   "next": {
-    "title": "Getting Started",
-    "permalink": "/fsm-docs/docs/category/getting-started"
+    "title": "Architecture",
+    "permalink": "/fsm-docs/docs/overview/architecture"
   }
 }
