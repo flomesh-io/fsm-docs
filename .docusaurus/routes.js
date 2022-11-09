@@ -44,8 +44,14 @@ export default [
   },
   {
     path: '/fsm-docs/docs',
-    component: ComponentCreator('/fsm-docs/docs', '2ae'),
+    component: ComponentCreator('/fsm-docs/docs', '4e3'),
     routes: [
+      {
+        path: '/fsm-docs/docs/',
+        component: ComponentCreator('/fsm-docs/docs/', '845'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
       {
         path: '/fsm-docs/docs/api-references/intro',
         component: ComponentCreator('/fsm-docs/docs/api-references/intro', '6f4'),
@@ -127,12 +133,6 @@ export default [
       {
         path: '/fsm-docs/docs/ingress/intro',
         component: ComponentCreator('/fsm-docs/docs/ingress/intro', '3f2'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/fsm-docs/docs/intro',
-        component: ComponentCreator('/fsm-docs/docs/intro', '0e7'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

@@ -18,10 +18,19 @@ export default {
     "defaultLocale": "en",
     "locales": [
       "en",
-      "zh-Hans"
+      "zh"
     ],
     "path": "i18n",
-    "localeConfigs": {}
+    "localeConfigs": {
+      "en": {
+        "label": "English",
+        "direction": "ltr"
+      },
+      "zh": {
+        "label": "简体中文",
+        "direction": "ltr"
+      }
+    }
   },
   "presets": [
     [
@@ -51,9 +60,21 @@ export default {
       "items": [
         {
           "type": "doc",
-          "docId": "intro",
+          "docId": "index",
           "position": "left",
           "label": "Docs"
+        },
+        {
+          "type": "docsVersionDropdown",
+          "position": "right",
+          "dropdownItemsBefore": [],
+          "dropdownItemsAfter": []
+        },
+        {
+          "type": "localeDropdown",
+          "position": "right",
+          "dropdownItemsBefore": [],
+          "dropdownItemsAfter": []
         },
         {
           "href": "https://github.com/flomesh-io/fsm",
@@ -65,44 +86,8 @@ export default {
     },
     "footer": {
       "style": "dark",
-      "links": [
-        {
-          "title": "Docs",
-          "items": [
-            {
-              "label": "Introduction",
-              "to": "/docs/intro"
-            }
-          ]
-        },
-        {
-          "title": "Community",
-          "items": [
-            {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
-            }
-          ]
-        },
-        {
-          "title": "More",
-          "items": [
-            {
-              "label": "GitHub",
-              "href": "https://github.com/flomesh-io/fsm"
-            }
-          ]
-        }
-      ],
-      "copyright": "Copyright © 2022 flomesh.io. Built with Docusaurus."
+      "copyright": "Copyright © 2022 flomesh.io.",
+      "links": []
     },
     "prism": {
       "theme": {

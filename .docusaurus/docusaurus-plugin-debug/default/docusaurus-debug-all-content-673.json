@@ -155,6 +155,29 @@
               }
             },
             {
+              "unversionedId": "index",
+              "id": "index",
+              "title": "FSM Documentation",
+              "description": "Let's discover FSM in less than 5 minutes.",
+              "source": "@site/docs/index.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/fsm-docs/docs/",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Quick Start",
+                "permalink": "/fsm-docs/docs/quick-start"
+              }
+            },
+            {
               "unversionedId": "ingress/intro",
               "id": "ingress/intro",
               "title": "intro",
@@ -179,29 +202,6 @@
               "next": {
                 "title": "Multi Cluster",
                 "permalink": "/fsm-docs/docs/category/multi-cluster"
-              }
-            },
-            {
-              "unversionedId": "intro",
-              "id": "intro",
-              "title": "Intro",
-              "description": "Let's discover Docusaurus in less than 5 minutes.",
-              "source": "@site/docs/intro.md",
-              "sourceDirName": ".",
-              "slug": "/intro",
-              "permalink": "/fsm-docs/docs/intro",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "next": {
-                "title": "Quick Start",
-                "permalink": "/fsm-docs/docs/quick-start"
               }
             },
             {
@@ -230,8 +230,8 @@
             {
               "unversionedId": "overview/intro",
               "id": "overview/intro",
-              "title": "intro",
-              "description": "",
+              "title": "Intro",
+              "description": "Let's discover Docusaurus in less than 5 minutes.",
               "source": "@site/docs/overview/intro.md",
               "sourceDirName": "overview",
               "slug": "/overview/intro",
@@ -273,8 +273,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Intro",
-                "permalink": "/fsm-docs/docs/intro"
+                "title": "FSM Documentation",
+                "permalink": "/fsm-docs/docs/"
               },
               "next": {
                 "title": "Architecture",
@@ -314,7 +314,7 @@
             "tutorialSidebar": [
               {
                 "type": "doc",
-                "id": "intro"
+                "id": "index"
               },
               {
                 "type": "doc",

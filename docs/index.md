@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Intro
+# FSM Documentation
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **FSM in less than 5 minutes**.
 
 ## What is FSM?
 

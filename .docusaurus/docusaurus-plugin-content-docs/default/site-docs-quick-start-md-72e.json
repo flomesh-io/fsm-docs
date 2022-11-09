@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Intro",
-    "permalink": "/fsm-docs/docs/intro"
+    "title": "FSM Documentation",
+    "permalink": "/fsm-docs/docs/"
   },
   "next": {
     "title": "Architecture",

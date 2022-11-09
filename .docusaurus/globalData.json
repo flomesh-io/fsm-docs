@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/fsm-docs/docs",
-          "mainDocId": "intro",
+          "mainDocId": "index",
           "docs": [
             {
               "id": "api-references/intro",
@@ -36,13 +36,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "ingress/intro",
-              "path": "/fsm-docs/docs/ingress/intro",
+              "id": "index",
+              "path": "/fsm-docs/docs/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "intro",
-              "path": "/fsm-docs/docs/intro",
+              "id": "ingress/intro",
+              "path": "/fsm-docs/docs/ingress/intro",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -110,8 +110,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/fsm-docs/docs/intro",
-                "label": "intro"
+                "path": "/fsm-docs/docs/",
+                "label": "index"
               }
             }
           }

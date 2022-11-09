@@ -11,9 +11,9 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Intro",
-        "href": "/fsm-docs/docs/intro",
-        "docId": "intro"
+        "label": "FSM Documentation",
+        "href": "/fsm-docs/docs/",
+        "docId": "index"
       },
       {
         "type": "link",
@@ -35,7 +35,7 @@
         "items": [
           {
             "type": "link",
-            "label": "intro",
+            "label": "Intro",
             "href": "/fsm-docs/docs/overview/intro",
             "docId": "overview/intro"
           }
@@ -180,16 +180,16 @@
       "description": "",
       "sidebar": "tutorialSidebar"
     },
+    "index": {
+      "id": "index",
+      "title": "FSM Documentation",
+      "description": "Let's discover FSM in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
     "ingress/intro": {
       "id": "ingress/intro",
       "title": "intro",
       "description": "",
-      "sidebar": "tutorialSidebar"
-    },
-    "intro": {
-      "id": "intro",
-      "title": "Intro",
-      "description": "Let's discover Docusaurus in less than 5 minutes.",
       "sidebar": "tutorialSidebar"
     },
     "multi-cluster/intro": {
@@ -200,8 +200,8 @@
     },
     "overview/intro": {
       "id": "overview/intro",
-      "title": "intro",
-      "description": "",
+      "title": "Intro",
+      "description": "Let's discover Docusaurus in less than 5 minutes.",
       "sidebar": "tutorialSidebar"
     },
     "quick-start": {

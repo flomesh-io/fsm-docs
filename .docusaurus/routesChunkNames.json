@@ -49,12 +49,16 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/fsm-docs/docs-2ae": {
+  "/fsm-docs/docs-4e3": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docs-4-fc-5ab"
     },
     "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/fsm-docs/docs/-845": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fsm-docs-docs-c-37-089"
   },
   "/fsm-docs/docs/api-references/intro-6f4": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -111,10 +115,6 @@
   "/fsm-docs/docs/ingress/intro-3f2": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---fsm-docs-docs-ingress-intro-130-262"
-  },
-  "/fsm-docs/docs/intro-0e7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-intro-0-e-3-be1"
   },
   "/fsm-docs/docs/multi-cluster/intro-fea": {
     "__comp": "__comp---theme-doc-item-178-a40",
