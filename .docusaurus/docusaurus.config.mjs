@@ -37,12 +37,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/linyang/workspace/flomesh-projects/fsm-docs/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
-        },
-        "blog": {
-          "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "sidebarPath": "/Users/linyang/workspace/flomesh-projects/fsm-docs/sidebars.js"
         },
         "theme": {
           "customCss": "/Users/linyang/workspace/flomesh-projects/fsm-docs/src/css/custom.css"
