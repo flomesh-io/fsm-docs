@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfsm_docs=self.webpackChunkfsm_docs||[]).push([[955],{7821:s=>{s.exports=JSON.parse('{"title":"Releases","slug":"/category/releases","permalink":"/fsm-docs/zh/docs/category/releases","navigation":{"previous":{"title":"intro","permalink":"/fsm-docs/zh/docs/how-to/intro"},"next":{"title":"intro","permalink":"/fsm-docs/zh/docs/releases/intro"}}}')}}]);
