@@ -5,7 +5,7 @@ type: docs
 weight: 1
 ---
 
-The Flomesh Service Mesh (FSM) inherits a portion of the archived [FSM](https://github.com/flomesh-io/fsm) code and introduces the following enhancements while maintaining compatibility with FSM:
+The Flomesh Service Mesh (FSM) inherits a small portion of now archived [OSM](https://github.com/openservicemesh/osm) code and introduces the following enhancements while maintaining compatibility with Service Mesh Interface (SMI):
 
 * FSM utilizes [Flomesh Pipy](https://github.com/flomesh-io/pipy) proxy. This enables FSM to achieve lightweight control and data planes, optimizing CPU and memory resources effectively.
 * Implemented traffic interception using eBPF-based technology instead of iptables-based traffic interception. To keep conformance with existing users, `iptables` is the default, while new users during installation can select `ebpf` option.
@@ -59,7 +59,7 @@ The evolution of Kubernetes to the edge side solves the difficulties of edge com
 * Integrate with external certificate management services/solutions with a pluggable interface
 * Onboard applications onto the mesh by enabling automatic sidecar injection of Pipy proxy
 * Supports Multi-cluster Kubernetes the Kubernetes way by implementing [MCS-API](https://github.com/kubernetes-sigs/mcs-api)
-* Supports Ingress/Egress and Gateway API
+* Supports Ingress/Egress and [Kubernetes Gateway API](https://gateway-api.sigs.k8s.io/)
 * Supports protocols like MQTT
 
 
