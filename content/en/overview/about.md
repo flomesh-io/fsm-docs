@@ -5,7 +5,7 @@ type: docs
 weight: 1
 ---
 
-The Flomesh Service Mesh (FSM) inherits a small portion of now archived [OSM](https://github.com/openservicemesh/osm) code and introduces the following enhancements while maintaining compatibility with Service Mesh Interface (SMI):
+> The Flomesh Service Mesh (FSM) inherits a very small portion of archived [OSM](https://github.com/openservicemesh/osm) code. 
 
 * FSM utilizes [Flomesh Pipy](https://github.com/flomesh-io/pipy) proxy. This enables FSM to achieve lightweight control and data planes, optimizing CPU and memory resources effectively.
 * Implemented traffic interception using eBPF-based technology instead of iptables-based traffic interception. To keep conformance with existing users, `iptables` is the default, while new users during installation can select `ebpf` option.
