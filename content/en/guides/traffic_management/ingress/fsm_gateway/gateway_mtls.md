@@ -1,6 +1,6 @@
 ---
 title: "Gateway mTLS"
-description: ""
+description: "Enabling Mutual TLS at the gateway enhances security by requiring mutual authentication, making it ideal for secure environments and sensitive data handling."
 type: docs
 weight: 38
 draft: false
