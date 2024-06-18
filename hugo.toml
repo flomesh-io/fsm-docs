@@ -145,8 +145,14 @@ min_k8s_version_gateway_api = "v1.21.0"
 pipy_version = "0.90.3-38"
 
 [[params.versions]]
-  version = "v1.1 (latest)"
+  version = "v1.1"
   url = "https://release-v1-1.fsm-docs.flomesh.io/"
+[[params.versions]]
+  version = "v1.2"
+  url = "https://release-v1-2.fsm-docs.flomesh.io/"  
+[[params.versions]]
+  version = "v1.3 (latest)"
+  url = "https://fsm-docs.flomesh.io/"    
 [[params.versions]]
   version = "All Releases"
   url = "/releases/docs"
