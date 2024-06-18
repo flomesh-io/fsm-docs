@@ -37,8 +37,3 @@ jobs:
       with:
         name: public-archive-${{ env.SANITIZED_BRANCH_NAME }}
         path: public
-    - name: Upload Archive
-      uses: actions/upload-artifact@v2
-      with:
-        name: public-archive-${{ github.ref_name || 'main' }}
-        path: public
