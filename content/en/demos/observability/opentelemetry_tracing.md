@@ -140,11 +140,11 @@ kubectl create namespace bookbuyer
 kubectl create namespace bookthief
 kubectl create namespace bookwarehouse
 fsm namespace add bookstore bookbuyer bookthief bookwarehouse
-kubectl apply -f https://raw.githubusercontent.com/flomesh-io/fsm-docs/main/manifests/apps/bookbuyer.yaml
-kubectl apply -f https://raw.githubusercontent.com/flomesh-io/fsm-docs/main/manifests/apps/bookthief.yaml
-kubectl apply -f https://raw.githubusercontent.com/flomesh-io/fsm-docs/main/manifests/apps/bookstore.yaml
-kubectl apply -f https://raw.githubusercontent.com/flomesh-io/fsm-docs/main/manifests/apps/bookwarehouse.yaml
-kubectl apply -f https://raw.githubusercontent.com/flomesh-io/fsm-docs/main/manifests/apps/mysql.yaml
+kubectl apply -f https://raw.githubusercontent.com/flomesh-io/fsm-docs/{{< param fsm_branch >}}/manifests/apps/bookbuyer.yaml
+kubectl apply -f https://raw.githubusercontent.com/flomesh-io/fsm-docs/{{< param fsm_branch >}}/manifests/apps/bookthief.yaml
+kubectl apply -f https://raw.githubusercontent.com/flomesh-io/fsm-docs/{{< param fsm_branch >}}/manifests/apps/bookstore.yaml
+kubectl apply -f https://raw.githubusercontent.com/flomesh-io/fsm-docs/{{< param fsm_branch >}}/manifests/apps/bookwarehouse.yaml
+kubectl apply -f https://raw.githubusercontent.com/flomesh-io/fsm-docs/{{< param fsm_branch >}}/manifests/apps/mysql.yaml
 ```
 
 ## Check Tracing

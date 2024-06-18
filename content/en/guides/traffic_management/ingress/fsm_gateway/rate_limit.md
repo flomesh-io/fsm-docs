@@ -55,7 +55,7 @@ Next, deploy a sample application using the popular httpbin service, and create 
 
 ```shell
 kubectl create namespace httpbin
-kubectl apply -n httpbin -f https://raw.githubusercontent.com/flomesh-io/fsm-docs/main/manifests/gateway/http-routing.yaml
+kubectl apply -n httpbin -f https://raw.githubusercontent.com/flomesh-io/fsm-docs/{{< param fsm_branch >}}/manifests/gateway/http-routing.yaml
 ```
 
 Check the gateway and HTTP route, noting the creation of routes for two different domains.

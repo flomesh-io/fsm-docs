@@ -23,11 +23,11 @@ deploy the sample services `httpbin` and `curl`
 #Mock target service
 kubectl create namespace httpbin
 fsm namespace add httpbin
-kubectl apply -n httpbin -f https://raw.githubusercontent.com/flomesh-io/fsm-docs/main/manifests/samples/httpbin/httpbin.yaml
+kubectl apply -n httpbin -f https://raw.githubusercontent.com/flomesh-io/fsm-docs/{{< param fsm_branch >}}/manifests/samples/httpbin/httpbin.yaml
 
 #Mock external service
 kubectl create namespace curl
-kubectl apply -n curl -f https://raw.githubusercontent.com/flomesh-io/fsm-docs/main/manifests/samples/curl/curl.yaml
+kubectl apply -n curl -f https://raw.githubusercontent.com/flomesh-io/fsm-docs/{{< param fsm_branch >}}/manifests/samples/curl/curl.yaml
 
 #Wait for the dependent POD to start normally
 kubectl wait --for=condition=ready pod -n httpbin -l app=httpbin --timeout=180s

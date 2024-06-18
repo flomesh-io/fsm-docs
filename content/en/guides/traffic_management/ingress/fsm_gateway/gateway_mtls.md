@@ -49,7 +49,7 @@ kubectl create secret generic -n httpbin simple-gateway-cert \
 Deploy the httpbin service and create a TLS gateway and route for it.
 
 ```shell
-kubectl apply -n httpbin -f https://raw.githubusercontent.com/flomesh-io/fsm-docs/main/manifests/gateway/tls-termination.yaml
+kubectl apply -n httpbin -f https://raw.githubusercontent.com/flomesh-io/fsm-docs/{{< param fsm_branch >}}/manifests/gateway/tls-termination.yaml
 ```
 
 Access the httpbin service through the gateway using the CA certificate created earlier, successfully accessing it.

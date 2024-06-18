@@ -39,12 +39,12 @@ Next we can install Pyroscope with Helm.
 
 ```bash
 helm install prof pyroscope \
-    -f https://raw.githubusercontent.com/flomesh-io/fsm-docs/main/manifests/integrations/pyroscope-values.yaml \
+    -f https://raw.githubusercontent.com/flomesh-io/fsm-docs/{{< param fsm_branch >}}/manifests/integrations/pyroscope-values.yaml \
     --repo https://pyroscope-io.github.io/helm-chart \
     -n "$fsm_NAMESPACE"
 ```
 
-This command will install a service named `prof-pyroscope` in the fsm_NAMESPACE. Some configurations of Pyroscope can be found in the [pyroscope-values.yaml](https://raw.githubusercontent.com/flomesh-io/fsm-docs/main/manifests/integrations/pyroscope-values.yaml) file. You can make a copy of it on your local machine and edit the values if you want to customize the Pyroscope installation.
+This command will install a service named `prof-pyroscope` in the fsm_NAMESPACE. Some configurations of Pyroscope can be found in the [pyroscope-values.yaml](https://raw.githubusercontent.com/flomesh-io/fsm-docs/{{< param fsm_branch >}}/manifests/integrations/pyroscope-values.yaml) file. You can make a copy of it on your local machine and edit the values if you want to customize the Pyroscope installation.
 
 Check the installation by running:
 

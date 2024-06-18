@@ -34,11 +34,11 @@ Corresponding to this are two `PluginChain`s:
 ```shell
 kubectl create namespace curl
 fsm namespace add curl
-kubectl apply -n curl -f https://raw.githubusercontent.com/flomesh-io/fsm-docs/main/manifests/samples/curl/curl.yaml
+kubectl apply -n curl -f https://raw.githubusercontent.com/flomesh-io/fsm-docs/{{< param fsm_branch >}}/manifests/samples/curl/curl.yaml
 
 kubectl create namespace httpbin
 fsm namespace add httpbin
-kubectl apply -n httpbin -f https://raw.githubusercontent.com/flomesh-io/fsm-docs/main/manifests/samples/httpbin/httpbin.yaml
+kubectl apply -n httpbin -f https://raw.githubusercontent.com/flomesh-io/fsm-docs/{{< param fsm_branch >}}/manifests/samples/httpbin/httpbin.yaml
 
 sleep 2
 kubectl wait --for=condition=ready pod -n curl -l app=curl --timeout=90s

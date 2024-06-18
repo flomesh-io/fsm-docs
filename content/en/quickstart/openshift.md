@@ -139,7 +139,7 @@ You will see that the count is no longer increasing.
 Execute below command to allow `bookbuyer` privileges to access `bookstore`:
 
 ```bash
-kubectl apply -f https://raw.githubusercontent.com/flomesh-io/fsm-docs/main/manifests/access/traffic-access-v1.yaml
+kubectl apply -f https://raw.githubusercontent.com/flomesh-io/fsm-docs/{{< param fsm_branch >}}/manifests/access/traffic-access-v1.yaml
 ```
 
 Here we go back to the `bookbuyer` and `bookstore` UI and see that the count resumes increasing while the count for the `bookthief` UI remains stopped.

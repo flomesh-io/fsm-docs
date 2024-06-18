@@ -69,7 +69,7 @@ fsm-controller-86d68c557b-tvgtm 2/2 Running 0 2m51s
 ```shell
 kubectl create ns httpbin
 fsm namespace add httpbin
-kubectl apply -f https://raw.githubusercontent.com/flomesh-io/fsm-docs/main/manifests/samples/httpbin/httpbin.yaml -n httpbin
+kubectl apply -f https://raw.githubusercontent.com/flomesh-io/fsm-docs/{{< param fsm_branch >}}/manifests/samples/httpbin/httpbin.yaml -n httpbin
 ```
 
 Confirm that the service has been created and the pod is up and running.

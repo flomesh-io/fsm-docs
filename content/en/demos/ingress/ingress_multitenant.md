@@ -25,7 +25,7 @@ In this demo, we will be deploying `httpbin` service under a namespace `httpbin`
 kubectl create ns httpbin
 
 # Deploy sample
-kubectl apply -f https://raw.githubusercontent.com/flomesh-io/fsm-docs/main/manifests/samples/httpbin/httpbin.yaml -n httpbin
+kubectl apply -f https://raw.githubusercontent.com/flomesh-io/fsm-docs/{{< param fsm_branch >}}/manifests/samples/httpbin/httpbin.yaml -n httpbin
 ```
 
 Creating a standalone Ingress Controller
