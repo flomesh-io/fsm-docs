@@ -148,8 +148,11 @@ pipy_version = "0.99.1-1"
   version = "v1.1"
   url = "https://release-v1-1.fsm-docs.flomesh.io/"
 [[params.versions]]
-  version = "v1.2 (latest)"
+  version = "v1.2"
   url = "https://release-v1-2.fsm-docs.flomesh.io/"  
+[[params.versions]]
+  version = "v1.3 (latest)"
+  url = "https://fsm-docs.flomesh.io/"    
 [[params.versions]]
   version = "All Releases"
   url = "/releases/docs"
