@@ -4,12 +4,7 @@ on:
   push:
     branches:
       - main
-  workflow_dispatch:
-    inputs:
-      branch:
-        description: 'Branch to run the workflow on'
-        required: true
-        default: 'main'      
+  workflow_dispatch: 
 
 jobs:
   build:
@@ -18,8 +13,6 @@ jobs:
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v2
-      with:
-        ref: ${{ github.event.inputs.branch }}      
 
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
@@ -34,13 +27,8 @@ jobs:
     - name: Build Hugo Site
       run: hugo --minify
 
-    - name: Archive Public Folder
-      run: |
-        zip -r public.zip public
-      working-directory: ${{ github.workspace }}
-
     - name: Upload Archive
       uses: actions/upload-artifact@v2
       with:
-        name: public-archive
+        name: public-archive-${{ github.ref_name || 'main' }}
         path: public
